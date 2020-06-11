@@ -1,0 +1,6 @@
+---
+type: "post"
+date: ${new Date().toISOString()}
+---
+
+post to hugo
