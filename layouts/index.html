@@ -6,7 +6,10 @@
   </head>
   <body>
     {{ range .Site.RegularPages }}
-      <div>{{ .Params.type }}</div>
+    <div>
+      <div>{{ .Date }}</div>
+      <div>{{ .Content }}</div>
+    </div>
     {{ end }}
     hello
   </body>
