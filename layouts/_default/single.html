@@ -5,12 +5,8 @@
     <title>title</title>
   </head>
   <body>
-    {{ range .Site.RegularPages }}
-    <div>
-      <div><a href="{{ .RelPermalink }}">{{ .Date }}</a></div>
+      <div>{{ .Date }}</div>
       <div>{{ .Content }}</div>
     </div>
-    {{ end }}
-    hello
   </body>
 </html>
