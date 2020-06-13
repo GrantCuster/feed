@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  background: #ddd;
+  padding: 0;
+  margin: 0;
+  /* font-family: 'bb-book mono'; */
+  font-family: 'BallPill';
+  font-size: 16px;
+  line-height: 24px;
+}
+img {
+  max-width: 100%;
+  display: block;
+}
+figure {
+  margin: 0;
+}
+figure img {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+figure p {
+  margin: 0;
+  text-indent: 2ch;
+}
+.post {
+  max-width: 640px;
+  margin: 0 auto;
+  margin-bottom: 24px;
+}
+a {
+  color: inherit;
+}
