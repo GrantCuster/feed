@@ -3,11 +3,20 @@
   <head>
     <meta charset="utf-8">
     <title>title</title>
+    <link rel="stylesheet" type="text/css" href="/style.css" />
   </head>
   <body>
+    <div style="max-width: 640px; margin: 24px auto;">
+      <div style="display: flex; justify-content: space-between; margin-bottom: 12px;">
+        <div>Grant Custer</div>
+        <div><a href="#">Index</a>&nbsp; <a href="#">Twitter</a></div>
+      </div>
+      <div>FEED</div>
+      <div>Work and inspiration in progress</div>
+    </div>
     {{ range .Site.RegularPages }}
-    <div>
-      <div><a href="{{ .RelPermalink }}">{{ .Date }}</a></div>
+    <div class="post">
+      <div>Inspiration • {{ .Date }}</div>
       <div>{{ .Content }}</div>
     </div>
     {{ end }}
