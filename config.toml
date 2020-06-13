@@ -1,4 +1,4 @@
-baseURL = "https://grantcuster.github.io/hugo_feed/"
+baseURL = "https://hugo_feed.grantcuster.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 
