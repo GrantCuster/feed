@@ -1,4 +1,7 @@
 baseURL = "https://hugo_feed.grantcuster.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+Paginate = 16
 
+[taxonomies]
+  feed_type = "feed_type"

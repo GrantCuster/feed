@@ -1,0 +1,20 @@
+<div class="post">
+  <div>{{ title .Params.feed_type }} • <a href="{{ .RelPermalink }}">{{ .Date.Format "Jan 2, 2006" }}</a></div>
+  <div><a href="{{ .RelPermalink }}"><img src="{{ .Params.image }}" /></a></div>
+  <div>
+    <div><p>{{ .Params.text }}</p></div>
+    {{ if or (isset .Params "from") (isset .Params "via") }}
+    <div><p>
+        {{ if (isset .Params "from") }}
+        <span>from {{ .Params.from | markdownify }}</span>
+        {{ end }}
+        {{ if (isset .Params "via") }}
+        <span>via {{ .Params.via | markdownify }}</span>
+        {{ end }}
+      </p></div>
+      {{ end }}
+  </div>
+</div>
+<div class="spacer"></div>
+<div class="spacer"></div>
+ 

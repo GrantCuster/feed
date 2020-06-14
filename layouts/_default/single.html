@@ -1,14 +1,63 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>title</title>
-    <meta property="description" content="{{ .Content }}">
-    <meta property="post-tweet" content="true">
-  </head>
-  <body>
-      <div>{{ .Date }}</div>
-      <div>{{ .Content }}</div>
-    </div>
-  </body>
-</html>
+{{ define "main" }}
+{{ $pages := .Site.RegularPages.ByDate.Reverse }}
+
+<div class="hspacer"></div>
+
+<div class="container">
+  <div>Grant Custer</div>
+  <div><p>Feed&nbsp; <a href="#">Index</a>&nbsp; <a href="#">Twitter</a></p></div>
+  <div class="hspacer"></div>
+  <div><a href="/">Feed</a></div>
+  <div><p>Post</p></div>
+</div>
+
+<div class="hspacer"></div>
+
+<div class="container">
+  {{ title .Params.feed_type }} • {{ .Date.Format "Jan 2, 2006" }}
+</div>
+
+<div style="text-align: center; padding-top: 6px; padding-bottom: 6px;">
+  <div style="display: inline-block; min-width: 68ch;">
+     <img src="{{ .Params.image }}" />
+  </div>
+</div>
+
+<div class="container">
+    <div>{{ .Params.text }}</div>
+    {{ if or (isset .Params "from") (isset .Params "via") }}
+    <div><p>
+        {{ if (isset .Params "from") }}
+        <span>from {{ .Params.from | markdownify }}</span>
+        {{ end }}
+        {{ if (isset .Params "via") }}
+        <span>via {{ .Params.via | markdownify }}</span>
+        {{ end }}
+      </p></div>
+      {{ end }}
+</div>
+
+<div class="spacer"></div>
+
+<div class="container">
+  <a href="/">Feed</a>
+</div>
+
+<div class="spacer"></div>
+<div class="spacer"></div>
+<div class="spacer"></div>
+
+<div style="position: fixed; left: 0; bottom: 0; right: 0; display: grid; grid-template-columns: 1fr 1fr;">
+  <div>
+    {{with $pages.Next .}}
+    <a class="button-hover" href="{{ .RelPermalink }}" style="display: block; padding-left: 2ch; padding-top: 12px; padding-bottom: 12px; text-align: center;">Prev</a> 
+    {{ end }}
+  </div>
+  <div>
+    {{with $pages.Prev .}}
+    <a class="button-hover" href="{{ .RelPermalink }}" style="display: block; padding-left: 2ch; padding-top: 12px; padding-bottom: 12px; text-align: center;">Next</a> 
+    {{ end }}
+  </div>
+</div>
+
+{{ end }}

@@ -1,0 +1,66 @@
+{{ define "main" }}
+
+<div class="container">
+  <div class="hspacer"></div>
+  <div>
+    <div>Grant Custer</div>
+    <div><p>Feed&nbsp; <a href="#">Index</a>&nbsp; <a href="#">Twitter</a></p></div>
+  </div>
+</div>
+
+<div class="hspacer"></div>
+
+<div class="container">
+  <div><a href="/">Feed</a> / Work</div>
+  <div><p>Work in progress</p></div>
+</div>
+
+<div class="spacer"></div>
+
+<div id="posts-holder" class="container">
+  {{ range first 20 (where .Site.RegularPages.ByDate.Reverse "Params.feed_type" "work") }}
+   {{ partial "post.html" . }}
+ {{ end }}
+</div>
+
+<div class="container">
+  <div>
+    <button id="load_more" class="button-hover">Load more</button>
+  </div>
+</div>
+
+<script>
+  window.addEventListener('load', () => {
+    let $posts_holder = document.getElementById('posts-holder')
+    let $load_more = document.getElementById('load_more')
+    let next_page = 2
+    $load_more.addEventListener('click', () => {
+      fetch(`/feed_type/work/page/${next_page}`).then(r =>r.text()).then(r => {
+        let el = document.createElement('html')
+        el.innerHTML = r
+        next_page += 1
+        let $posts = el.querySelector('#posts-holder').children
+        for (let i=0; i< $posts.length; i++) {
+          let $post = $posts[i].cloneNode(true)
+          $posts_holder.appendChild($post)
+        }
+      })
+    })
+  })
+</script>
+
+
+<div class="spacer"></div>
+<div class="spacer"></div>
+
+<div class="container">
+  <div>About</div>
+  <div>
+    <p>Grant Custer is a designer-programmer interested in alternative interfaces.</p>
+    <p>{{ "Feed is where I document work and inspiration in progress. It is built using [Hugo](https://gohugo.io/) and hosted on [Github](). I make posts to it using a simple private app built using [Node.js](https://nodejs.org). The font is [BallPill by Benoît Bodhuin](https://www.bb-bureau.fr/post/191001061867/ballpill)." | markdownify }}</p>
+    <p>{{ "You can see my experimental interface work at [constraint.systems](https://constraint.systems). I also design and build prototypes for [Cloudera Fast Forward](https://blog.fastforwardlabs.com). I'm happy to talk on [Twitter](), email: grantcuster at gmail dot com, or [Mastodon](). You can see a full list of projects on my [Index](grantcuster.com)." | markdownify }}</p>
+  </div>
+  <div class="spacer"></div>
+</div>
+
+{{ end }}
