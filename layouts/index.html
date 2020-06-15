@@ -17,7 +17,7 @@
 
 <div class="spacer"></div>
 
-<div id="posts-holder" class="container">
+<div id="posts-holder">
   {{ range first 20 .Site.RegularPages.ByDate.Reverse }}
    {{ partial "post.html" . }}
  {{ end }}

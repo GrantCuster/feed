@@ -84,3 +84,22 @@ button {
     min-width: 100%;
   }
 }
+.image-container {
+  max-width: calc(68ch + 24px);
+  padding-left: 12px;
+  padding-right: 12px;
+  margin: 0 auto;
+}
+@media only screen and (max-width: calc(68ch + 24px)) {
+  .image-container {
+    padding-left: 0;
+    padding-right: 0;
+    max-width: 100%;
+  }
+}
+#post-img.scaled {
+  cursor: zoom-in;
+}
+#post-img.fullsize {
+  cursor: zoom-out;
+}

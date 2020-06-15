@@ -1,7 +1,11 @@
 <div class="post">
-  <div>{{ title .Params.feed_type }} ↓ <a href="{{ .RelPermalink }}">{{ .Date.Format "Jan 2, 2006" }}</a></div>
-  <div><a href="{{ .RelPermalink }}"><img src="{{ .Params.image }}" /></a></div>
-  <div>
+  <div class="container">
+    <div>{{ title .Params.feed_type }} ↓ <a href="{{ .RelPermalink }}">{{ .Date.Format "Jan 2, 2006" }}</a></div>
+  </div>
+  <div class="image-container">
+    <a href="{{ .RelPermalink }}"><img src="{{ .Params.image }}" /></a>
+  </div>
+  <div class="container">
     <div><p>{{ .Params.text }}</p></div>
     {{ if or (isset .Params "from") (isset .Params "via") }}
     <div><p>

@@ -28,7 +28,7 @@
 </div>
 {{ end }}
 
-<div id="posts-holder" class="container">
+<div id="posts-holder">
   {{ range (.Paginate $pages).Pages }}
     {{ partial "post.html" . }}
   {{ end }}

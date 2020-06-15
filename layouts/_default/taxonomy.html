@@ -19,7 +19,7 @@
   <div class="spacer"></div>
 </div>
 
-<div id="posts-holder" class="container">
+<div id="posts-holder">
   {{ range (.Paginate .Pages.ByDate.Reverse).Pages }}
     {{ partial "post.html" . }}
   {{ end }}
