@@ -6,9 +6,11 @@
     <a href="{{ .RelPermalink }}"><img src="{{ .Params.image }}" /></a>
   </div>
   <div class="container">
-    <div><p>{{ .Params.text }}</p></div>
+    {{ if isset .Params "text" }}
+      <div><p>{{ .Params.text }}</p></div>
+    {{ end }}
     {{ if or (isset .Params "from") (isset .Params "via") }}
-    <div><p>
+      <div><p>
         {{ if (isset .Params "from") }}
         <span>from {{ .Params.from | markdownify }}</span>
         {{ end }}
