@@ -3,22 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hugo_feed.grantcuster.com/posts/post-1591411938/</loc>
-    <lastmod>2020-06-06T02:52:18+00:00</lastmod>
+    <loc>https://hugo_feed.grantcuster.com/posts/post-1592182630/</loc>
+    <lastmod>2020-06-15T00:57:09+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hugo_feed.grantcuster.com/feed_type/</loc>
-    <lastmod>2020-06-06T02:52:18+00:00</lastmod>
+    <lastmod>2020-06-15T00:57:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo_feed.grantcuster.com/feed_type/inspiration/</loc>
+    <lastmod>2020-06-15T00:57:09+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hugo_feed.grantcuster.com/</loc>
-    <lastmod>2020-06-06T02:52:18+00:00</lastmod>
+    <lastmod>2020-06-15T00:57:09+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hugo_feed.grantcuster.com/posts/</loc>
+    <lastmod>2020-06-15T00:57:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo_feed.grantcuster.com/posts/post-1591411938/</loc>
     <lastmod>2020-06-06T02:52:18+00:00</lastmod>
   </url>
   
@@ -54,11 +64,6 @@
   
   <url>
     <loc>https://hugo_feed.grantcuster.com/posts/post-1590415600/</loc>
-    <lastmod>2020-05-25T14:06:39+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hugo_feed.grantcuster.com/feed_type/inspiration/</loc>
     <lastmod>2020-05-25T14:06:39+00:00</lastmod>
   </url>
   
