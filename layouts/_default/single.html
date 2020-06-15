@@ -1,12 +1,16 @@
+{{ define "head" }}
+<title>Post / {{ .Params.feed_type | title }} - Grant Custer</title>
+<meta property="description" content="{{ .Params.text }}">
+<meta property="og:description" content="{{ .Params.text }}">
+<meta property="og:image" content="{{ .Params.image }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="twitter:card" content="summary_large_image">
+{{ end }}
+
 {{ define "main" }}
 {{ $pages := .Site.RegularPages.ByDate.Reverse }}
 
-<div class="hspacer"></div>
-
 <div class="container">
-  <div>Grant Custer</div>
-  <div><p>Feed&nbsp; <a href="#">Index</a>&nbsp; <a href="#">Twitter</a></p></div>
-  <div class="hspacer"></div>
   <div><a href="/">Feed</a></div>
   <div><p>Post</p></div>
 </div>
