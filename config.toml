@@ -1,6 +1,6 @@
-baseURL = "https://hugo_feed.grantcuster.com/"
+baseURL = "https://feed.grantcuster.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Grant Custer → Feed"
 Paginate = 16
 
 [permalinks]
