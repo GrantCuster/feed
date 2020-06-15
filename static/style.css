@@ -6,8 +6,8 @@ body {
   background: #ddd;
   padding: 0;
   margin: 0;
-  /* font-family: 'bb-book mono'; */
-  font-family: 'BallPill';
+  font-family: 'JetBrains Mono';
+  color: #222;
   font-size: 16px;
   line-height: 24px;
 }
@@ -75,4 +75,12 @@ button {
   padding-bottom: 12px;
   width: 100%;
   color: black;
+}
+.full-image-holder {
+  min-width: 68ch;
+}
+@media only screen and (max-width: 68ch) {
+  .full-image-holder {
+    min-width: 100%;
+  }
 }

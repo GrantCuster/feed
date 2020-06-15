@@ -1,5 +1,5 @@
 {{ define "head" }}
-<title>Post / {{ .Params.feed_type | title }} - Grant Custer</title>
+<title>Grant Custer → Post</title>
 <meta property="description" content="{{ .Params.text }}">
 <meta property="og:description" content="{{ .Params.text }}">
 <meta property="og:image" content="{{ .Params.image }}">
@@ -15,14 +15,14 @@
   <div><p>Post</p></div>
 </div>
 
-<div class="hspacer"></div>
+<div class="spacer"></div>
 
 <div class="container">
-  {{ title .Params.feed_type }} • {{ .Date.Format "Jan 2, 2006" }}
+  {{ title .Params.feed_type }} ↓ {{ .Date.Format "Jan 2, 2006" }}
 </div>
 
 <div style="text-align: center; padding-top: 6px; padding-bottom: 6px;">
-  <div style="display: inline-block; min-width: 68ch;">
+  <div class="full-image-holder" style="display: inline-block;">
      <img src="{{ .Params.image }}" />
   </div>
 </div>
@@ -54,7 +54,7 @@
 <div style="position: fixed; left: 0; bottom: 0; right: 0; display: grid; grid-template-columns: 1fr 1fr;">
   <div>
     {{with $pages.Next .}}
-    <a class="button-hover" href="{{ .RelPermalink }}" style="display: block; padding-left: 2ch; padding-top: 12px; padding-bottom: 12px; text-align: center;">Prev</a> 
+    <a class="button-hover" href="{{ .RelPermalink }}" style="display: block; padding-left: 2ch; padding-top: 12px; padding-bottom: 12px; text-align: center; mix-blend-mode: difference;">Prev</a> 
     {{ end }}
   </div>
   <div>

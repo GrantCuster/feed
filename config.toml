@@ -3,5 +3,8 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 Paginate = 16
 
+[permalinks]
+  posts = "post/:filename"
+
 [taxonomies]
   feed_type = "feed_type"
