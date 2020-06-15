@@ -1,7 +1,9 @@
 {{ define "head" }}
+{{ $title := "Grant Custer → Feed" }}
 {{ $description := "Work and inspiration in progress." }}
-<title>Feed - Grant Custer</title>
+<title>{{ title }}</title>
 <meta property="description" content="{{ $description }}">
+<meta property="og:title" content="{{ $title }}">
 <meta property="og:description" content="{{ $description }}">
 <meta property="og:image" content="{{ .Site.BaseURL }}feed.png">
 <meta property="og:url" content="{{ .Site.BaseURL }}">

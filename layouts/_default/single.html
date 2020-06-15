@@ -1,8 +1,10 @@
 {{ define "head" }}
-<title>Grant Custer → Post</title>
+{{ $title := "Grant Custer → Post" }}
+<title>{{ $title }}</title>
 <meta property="description" content="{{ .Params.text }}">
+<meta property="og:title" content="{{ $title }}">
 <meta property="og:description" content="{{ .Params.text }}">
-<meta property="og:image" content="{{ .Params.image }}">
+<meta property="og:image" content="{{ substr .Site.BaseURL 0 -1 }}{{ .Params.image }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="twitter:card" content="summary_large_image">
 {{ end }}
