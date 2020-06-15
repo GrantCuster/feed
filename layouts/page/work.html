@@ -19,7 +19,7 @@
 <div class="spacer"></div>
 
 <div id="posts-holder">
-  {{ range first 20 (where .Site.RegularPages.ByDate.Reverse "Params.feed_type" "work") }}
+  {{ range first 16 (where .Site.RegularPages.ByDate.Reverse "Params.feed_type" "work") }}
    {{ partial "post.html" . }}
  {{ end }}
 </div>
