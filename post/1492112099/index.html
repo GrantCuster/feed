@@ -46,7 +46,7 @@
 
 <div style="text-align: center; padding-top: 6px; padding-bottom: 6px;">
   <div class="full-image-holder" style="display: inline-block;">
-     <img src="/images/posts/Screen_Shot_2017-04-13_at_3_34_16_PM-1492112098767.png" />
+     <img id="post-img" src="/images/posts/Screen_Shot_2017-04-13_at_3_34_16_PM-1492112098767.png" />
   </div>
 </div>
 
@@ -66,7 +66,7 @@
 <div class="spacer"></div>
 <div class="spacer"></div>
 
-<div style="position: fixed; left: 0; bottom: 0; right: 0; display: grid; grid-template-columns: 1fr 1fr;">
+<div style="position: fixed; left: 0; bottom: 0; width: 100vw; display: grid; grid-template-columns: 1fr 1fr;">
   <div>
     
     <a class="button-hover" href="/post/1492123146/" style="display: block; padding-left: 2ch; padding-top: 12px; padding-bottom: 12px; text-align: center; mix-blend-mode: difference;">Prev</a> 
@@ -78,6 +78,32 @@
     
   </div>
 </div>
+
+<script>
+  window.addEventListener('load', () => {
+    let $post_img = document.getElementById('post-img')
+    if ($post_img.width < $post_img.naturalWidth) {
+      $post_img.classList.add('scaled')
+      $post_img.addEventListener('click', function() {
+        let og_width = this.naturalWidth
+        let og_height = this.naturalHeight
+        if ($post_img.classList.contains('scaled')) {
+          $post_img.style.maxWidth = 'none'
+          $post_img.style.width = og_width + 'px'
+          $post_img.style.height = og_height + 'px'
+          $post_img.classList.add('fullsize')
+          $post_img.classList.remove('scaled')
+        } else {
+          $post_img.style.maxWidth = '100%'
+          $post_img.style.width = ''
+          $post_img.style.height = ''
+          $post_img.classList.add('scaled')
+          $post_img.classList.remove('fullsize')
+        }
+      })
+    }
+ })
+</script>
 
 
   </body>
