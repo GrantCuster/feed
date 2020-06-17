@@ -8,3 +8,8 @@ Paginate = 16
 
 [taxonomies]
   feed_type = "feed_type"
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "rss"
