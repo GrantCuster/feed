@@ -18,10 +18,11 @@
       
       <guid>https://feed.grantcuster.com/feed_type/work/</guid>
       <description>
+        <img src="https://feed.grantcuster.com/"/><br/><br/>
+        <p>
         
-        
+        </p>
       </description>
-      <enclosure url="https://feed.grantcuster.com/" />
     </item>
     
     <item>
@@ -31,10 +32,11 @@
       
       <guid>https://feed.grantcuster.com/feed_type/inspiration/</guid>
       <description>
+        <img src="https://feed.grantcuster.com/"/><br/><br/>
+        <p>
         
-        
+        </p>
       </description>
-      <enclosure url="https://feed.grantcuster.com/" />
     </item>
     
     <item>
@@ -44,10 +46,11 @@
       
       <guid>https://feed.grantcuster.com/feed_type/false/</guid>
       <description>
+        <img src="https://feed.grantcuster.com/"/><br/><br/>
+        <p>
         
-        
+        </p>
       </description>
-      <enclosure url="https://feed.grantcuster.com/" />
     </item>
     
   </channel>
