@@ -454,7 +454,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/stamp-1587655276727.gif"/><br/><br/>
         <p>Stamp - image-paint (stamp) from a source image palette using keyboard controls.
-        
+        from &lt;a href=&#34;https://stamp.constraint.systems&#34;&gt;https://stamp.constraint.systems&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -468,7 +468,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screenshot_from_2020_04_22_18_02_49-1587593083944.png"/><br/><br/>
         <p>Library - books I&amp;rsquo;ve read or am reading. Trying to keep it simple for now.
-        
+        from &lt;a href=&#34;https://library.grantcuster.com&#34;&gt;https://library.grantcuster.com&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -482,7 +482,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screenshot_from_2020_04_19_11_57_12-1587311996791.png"/><br/><br/>
         <p>Building a library.json.
-        
+        from &lt;a href=&#34;https://tomcritchlow.com/2020/04/15/library-json/&#34;&gt;https://tomcritchlow.com/2020/04/15/library-json/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -706,7 +706,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screenshot_from_2020_04_03_00_22_38-1585887860016.png"/><br/><br/>
         <p>Exploring the xBR filter (running it on things it is not intended for).
-        
+        from &lt;a href=&#34;https://github.com/carlosascari/2xBR-Filter&#34;&gt;https://github.com/carlosascari/2xBR-Filter&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -776,7 +776,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screenshot_from_2020_03_29_22_20_09-1585534864387.png"/><br/><br/>
         <p>I made myself an index.
-        
+        from &lt;a href=&#34;http://index.grantcuster.com&#34;&gt;http://index.grantcuster.com&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -818,7 +818,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screenshot_from_2020_03_24_18_23_03-1585088905195.png"/><br/><br/>
         <p>Back to font and text editor work.
-        
+        from &lt;a href=&#34;https://rmocci.itch.io/dogica&#34;&gt;https://rmocci.itch.io/dogica&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -860,7 +860,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/collapse-1584833147307.gif"/><br/><br/>
         <p>Collapse - collapse an image into itself using ranked superpixels.
-        
+        from &lt;a href=&#34;https://collapse.constraint.systems&#34;&gt;https://collapse.constraint.systems&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -972,7 +972,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/res-1584369604724.gif"/><br/><br/>
         <p>Res - selectively pixelate an image using a compression algorithm and let me know how it turns out.
-        
+        from &lt;a href=&#34;https://res.constraint.systems&#34;&gt;https://res.constraint.systems&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -1014,7 +1014,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screenshot_from_2020_03_10_09_24_29-1583846890172.png"/><br/><br/>
         <p>I wanted to calculate entropy per 16x16 tile in this image. Someone suggested just using compression size as a proxy. So I used canvas toDataURL() and counted the characters. It works!
-        
+        from &lt;a href=&#34;https://stackoverflow.com/a/45579688&#34;&gt;https://stackoverflow.com/a/45579688&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -1028,7 +1028,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/rgb-1583764248127.gif"/><br/><br/>
         <p>Rgb lets you pixel-paint with keyboard controls.
-        
+        from &lt;a href=&#34;https://rgb.constraint.systems&#34;&gt;https://rgb.constraint.systems&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -1154,7 +1154,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screenshot_from_2020_02_26_11_24_11-1582734378786.png"/><br/><br/>
         <p>I wrote about the trade-offs involved in using Vim-style navigation for the &lt;a href=&#34;https://constraint.systems&#34;&gt;https://constraint.systems&lt;/a&gt; projects.
-        
+        from &lt;a href=&#34;https://scrawl.grantcuster.com/2020-057-42.html&#34;&gt;https://scrawl.grantcuster.com/2020-057-42.html&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -1168,7 +1168,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/facelong-1582560217737.gif"/><br/><br/>
         <p>Face - edit both the text and the font it is rendered in.
-        
+        from &lt;a href=&#34;https://face.constraint.systems&#34;&gt;https://face.constraint.systems&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -1252,7 +1252,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/blip_share-1581623597050.png"/><br/><br/>
         <p>Blip, our newest Fast Forward prototype, visualizes how four different algorithms perform at anomaly detection.
-        
+        from &lt;a href=&#34;http://blip.fastforwardlabs.com&#34;&gt;http://blip.fastforwardlabs.com&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -1420,7 +1420,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screenshot_from_2020_01_21_14_09_05-1579633812503.png"/><br/><br/>
         <p>
-        
+        from Working out a report cover illustration.
         </p>
       </description>
     </item>
@@ -1462,7 +1462,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/pal_gruvbox_dark_l16249999999999992_h9250000000000003_s0_20200115T154443Z-1579103223775.png"/><br/><br/>
         <p>Project inception: screenshot of in-progress font + text editor processed with Pal
-        
+        from &lt;a href=&#34;https://pal.constraint.systems&#34;&gt;https://pal.constraint.systems&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -1532,7 +1532,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screenshot_from_2020_01_09_09_28_44-1578580237490.png"/><br/><br/>
         <p>Ben Chasny on his playing-card-based hexadic composition system.
-        
+        from &lt;a href=&#34;https://www.youtube.com/watch?v=Z67ZPVgpE-E&#34;&gt;https://www.youtube.com/watch?v=Z67ZPVgpE-E&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -1546,7 +1546,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/pal-1578518950252.gif"/><br/><br/>
         <p>Pal - apply an eight-color terminal color scheme to an image. Use the keyboard controls to choose a theme, set thresholds, and cycle hues.
-        
+        from &lt;a href=&#34;https://pal.constraint.systems/&#34;&gt;https://pal.constraint.systems/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -1574,7 +1574,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screenshot_from_2020_01_07_21_08_06-1578449380291.png"/><br/><br/>
         <p>Learning about generating bitmap fonts.
-        
+        from &lt;a href=&#34;https://github.com/vladimirgamalyan/fontbm&#34;&gt;https://github.com/vladimirgamalyan/fontbm&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -1616,7 +1616,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screenshot_from_2020_01_03_10_15_48-1578064603261.png"/><br/><br/>
         <p>Rough music purchasing plan.
-        
+        from &lt;a href=&#34;https://scrawl.grantcuster.com/2020-003-40.html&#34;&gt;https://scrawl.grantcuster.com/2020-003-40.html&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -1714,7 +1714,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/bix-1577547280496.gif"/><br/><br/>
         <p>New from Constraint Systems: Bix visualizes text as binary code and lets you draw on top of it.
-        
+        from &lt;a href=&#34;https://bix.constraint.systems&#34;&gt;https://bix.constraint.systems&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -1756,7 +1756,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screenshot_from_2019_12_16_19_32_07-1576542819183.png"/><br/><br/>
         <p>Writing about using a tiling window manager.
-        
+        from &lt;a href=&#34;https://scrawl.grantcuster.com/2019-350-79.html&#34;&gt;https://scrawl.grantcuster.com/2019-350-79.html&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -1882,7 +1882,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screenshot_from_2019_12_08_11_58_28-1575824505176.png"/><br/><br/>
         <p>Unpolished but functional: a page displaying a random kindle highlight. Exported the highlights using clippings.io.
-        
+        from &lt;a href=&#34;http://b.gracus.codes&#34;&gt;http://b.gracus.codes&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -1910,7 +1910,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screenshot_from_2019_12_06_10_10_12-1575645071084.png"/><br/><br/>
         <p>Writing about switching to Linux.
-        
+        from &lt;a href=&#34;https://scrawl.grantcuster.com/2019-340-36.html&#34;&gt;https://scrawl.grantcuster.com/2019-340-36.html&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2077,7 +2077,7 @@
       <guid>https://feed.grantcuster.com/post/1574122842/</guid>
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_11_18_at_7_18_06_PM-1574122841731.png"/><br/><br/>
-        <p>Call me Ishmael.
+        <p>&amp;ldquo;Call me Ishmael.&amp;rdquo;
         
         </p>
       </description>
@@ -2134,7 +2134,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_11_16_at_8_17_07_PM-1573953599654.png"/><br/><br/>
         <p>Text as UTF-8 binary pixels.
-        
+        from &lt;a href=&#34;https://observablehq.com/@grantcuster/utf-8-binary-pixels&#34;&gt;https://observablehq.com/@grantcuster/utf-8-binary-pixels&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2204,7 +2204,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_11_14_at_11_40_59_AM-1573749709782.png"/><br/><br/>
         <p>
-        
+        from &lt;a href=&#34;https://observablehq.com/@grantcuster/braille-pixels&#34;&gt;https://observablehq.com/@grantcuster/braille-pixels&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2218,7 +2218,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_11_13_at_6_28_04_PM-1573687728941.png"/><br/><br/>
         <p>I&amp;rsquo;m trying to name something again. So I did an inverted alphabet test.
-        
+        from &lt;a href=&#34;https://observablehq.com/@grantcuster/inverted-alphabet&#34;&gt;https://observablehq.com/@grantcuster/inverted-alphabet&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2316,7 +2316,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_11_08_at_1_21_47_PM-1573237769444.png"/><br/><br/>
         <p>Constraint systems, where limitations are a feature, has six entries now.
-        
+        from &lt;a href=&#34;https://constraint.systems&#34;&gt;https://constraint.systems&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2330,7 +2330,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/diptych-1573229407781.gif"/><br/><br/>
         <p>Diptych - pixel-reflow an image to match the dimensions of your text. Save the result as a diptych.
-        
+        from &lt;a href=&#34;https://diptych.constraint.systems/&#34;&gt;https://diptych.constraint.systems/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2512,7 +2512,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_10_30_at_3_07_28_PM-1572462552884.png"/><br/><br/>
         <p>Bowie (slide edit)
-        
+        from &lt;a href=&#34;https://slide.constraint.systems/&#34;&gt;https://slide.constraint.systems/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2526,7 +2526,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/slide-1572445868809.gif"/><br/><br/>
         <p>Slide - divide and slide-stretch an image using keyboard controls.
-        
+        from &lt;a href=&#34;https://slide.constraint.systems&#34;&gt;https://slide.constraint.systems&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2708,7 +2708,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_10_17_at_6_16_22_PM-1571350621037.png"/><br/><br/>
         <p>Generating differentiated symbols - the triangle version.
-        
+        from &lt;a href=&#34;https://observablehq.com/@grantcuster/generating-differentiated-symbols-triangle-version&#34;&gt;https://observablehq.com/@grantcuster/generating-differentiated-symbols-triangle-version&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2722,7 +2722,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_10_17_at_10_26_16_AM-1571323040740.png"/><br/><br/>
         <p>I think I know what branding is now. Writing and thinking about Ben Pieratt&amp;rsquo;s pre-brand concept.
-        
+        from &lt;a href=&#34;https://scrawl.grantcuster.com/2019-19-17-41.html&#34;&gt;https://scrawl.grantcuster.com/2019-19-17-41.html&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2736,7 +2736,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_10_16_at_3_49_34_PM-1571255440575.png"/><br/><br/>
         <p>Generating some symbols.
-        
+        from &lt;a href=&#34;https://observablehq.com/@grantcuster/generating-differentiated-symbols-12-line-version&#34;&gt;https://observablehq.com/@grantcuster/generating-differentiated-symbols-12-line-version&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2750,7 +2750,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_10_16_at_10_46_10_AM-1571237223539.png"/><br/><br/>
         <p>I made a new writing website for myself.
-        
+        from &lt;a href=&#34;http://scrawl.grantcuster.com&#34;&gt;http://scrawl.grantcuster.com&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2834,7 +2834,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/castle-1570802507186.png"/><br/><br/>
         <p>Castle.
-        
+        from &lt;a href=&#34;https://hex.constraint.systems/&#34;&gt;https://hex.constraint.systems/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2848,7 +2848,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/freeconfig-1570636163814.gif"/><br/><br/>
         <p>I made a simple, weird image editor called Freeconfig that let&amp;rsquo;s you push image pixels around in blocks.
-        
+        from &lt;a href=&#34;https://freeconfig.constraint.systems/&#34;&gt;https://freeconfig.constraint.systems/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2862,7 +2862,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/freeconfig_%289%29-1570563680270.png"/><br/><br/>
         <p>Face freeconfigured.
-        
+        from &lt;a href=&#34;https://freeconfig.constraint.systems/&#34;&gt;https://freeconfig.constraint.systems/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2876,7 +2876,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_10_07_at_10_15_09_PM-1570500949949.png"/><br/><br/>
         <p>I tried putting a corner of my head in the wave function collapse example.
-        
+        from &lt;a href=&#34;http://www.kchapelier.com/wfc-example/overlapping-model.html&#34;&gt;http://www.kchapelier.com/wfc-example/overlapping-model.html&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2960,7 +2960,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/moire_%285%29-1570285866612.png"/><br/><br/>
         <p>Wrinkles.
-        
+        from &lt;a href=&#34;https://moire.constraint.systems/&#34;&gt;https://moire.constraint.systems/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2974,7 +2974,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/moire_%284%29-1570208426341.png"/><br/><br/>
         <p>Eye.
-        
+        from &lt;a href=&#34;https://moire.constraint.systems/&#34;&gt;https://moire.constraint.systems/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -2988,7 +2988,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/moire-1570200804944.gif"/><br/><br/>
         <p>Moire lets you generate angular skyscapes using Asteroids-like ship controls. &lt;a href=&#34;https://moire.constraint.systems/&#34;&gt;https://moire.constraint.systems/&lt;/a&gt;
-        
+        from &lt;a href=&#34;https://moire.constraint.systems/&#34;&gt;https://moire.constraint.systems/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -3156,7 +3156,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/share-1569455210603.gif"/><br/><br/>
         <p>Hex is a keyboard-driven, grid-based drawing tool.
-        
+        from &lt;a href=&#34;https://hex.constraint.systems/&#34;&gt;https://hex.constraint.systems/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -3282,7 +3282,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/etch_share_slower-1569010060363.gif"/><br/><br/>
         <p>Etch - a keyboard-based drawing tool.
-        
+        from &lt;a href=&#34;https://etch.constraint.systems/&#34;&gt;https://etch.constraint.systems/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -3310,7 +3310,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_09_18_at_9_58_17_AM-1568815136211.png"/><br/><br/>
         <p>Step 0.
-        
+        from &lt;a href=&#34;https://index.constraint.systems/&#34;&gt;https://index.constraint.systems/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -3352,7 +3352,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_09_11_at_10_16_52_AM-1568211446144.png"/><br/><br/>
         <p>Finished t-shirt design.
-        
+        from &lt;a href=&#34;https://observablehq.com/@grantcuster/fake-neural-network-letter-diagrams&#34;&gt;https://observablehq.com/@grantcuster/fake-neural-network-letter-diagrams&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -3520,7 +3520,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/typing-1565299985588.gif"/><br/><br/>
         <p>The latest in typing replay technology.
-        
+        from &lt;a href=&#34;https://observablehq.com/@grantcuster/textbox-typing-playback&#34;&gt;https://observablehq.com/@grantcuster/textbox-typing-playback&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -3646,7 +3646,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_07_26_at_3_09_43_PM-1564168230279.png"/><br/><br/>
         <p>Understanding repng.
-        
+        from &lt;a href=&#34;https://github.com/jxnblk/repng&#34;&gt;https://github.com/jxnblk/repng&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -3688,7 +3688,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_07_24_at_3_26_52_PM-1563996491239.png"/><br/><br/>
         <p>Textflix uses movie reviews to show how machine learning can unlock the data embedded in large amounts of unstructured text.
-        
+        from &lt;a href=&#34;https://textflix.fastforwardlabs.com&#34;&gt;https://textflix.fastforwardlabs.com&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -3758,7 +3758,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/text_portrait-1563055312683.gif"/><br/><br/>
         <p>Text portraits: ASCII art generated from an image using only the characters from the text box.
-        
+        from &lt;a href=&#34;https://observablehq.com/@grantcuster/text-portraits&#34;&gt;https://observablehq.com/@grantcuster/text-portraits&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -3814,7 +3814,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_07_11_at_8_18_53_PM-1562890963967.png"/><br/><br/>
         <p>Sort font characters by percent of black pixels.
-        
+        from &lt;a href=&#34;https://observablehq.com/@grantcuster/sort-font-characters-by-percent-of-black-pixels&#34;&gt;https://observablehq.com/@grantcuster/sort-font-characters-by-percent-of-black-pixels&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -3828,7 +3828,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_07_11_at_7_11_31_PM-1562886733986.png"/><br/><br/>
         <p>Responsive ASCII art me
-        
+        from &lt;a href=&#34;https://observablehq.com/@grantcuster/ascii-art-me&#34;&gt;https://observablehq.com/@grantcuster/ascii-art-me&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -3912,7 +3912,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_07_08_at_10_04_09_AM-1562594688071.png"/><br/><br/>
         <p>Generative covers.
-        
+        from &lt;a href=&#34;https://observablehq.com/@grantcuster/ff11-cover-transfer-learning-for-natural-language-process&#34;&gt;https://observablehq.com/@grantcuster/ff11-cover-transfer-learning-for-natural-language-process&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -4010,7 +4010,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_06_21_at_2_53_32_PM-1561143363794.png"/><br/><br/>
         <p>Trying to figure out some experiments I can do with &lt;em&gt;Metaphors We Live By&lt;/em&gt;. Starting by trying to just markup examples using their expanded definition of metaphor.
-        
+        from &lt;a href=&#34;https://observablehq.com/@grantcuster/metaphors&#34;&gt;https://observablehq.com/@grantcuster/metaphors&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -4094,7 +4094,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_06_17_at_3_27_15_PM-1560799933082.png"/><br/><br/>
         <p>I wrote an #eyeo2019 personal conference recap: On creativity, vulnerability, and activism.
-        
+        from &lt;a href=&#34;https://writing.grantcuster.com/posts/2019-06-14-eyeo-recap-creativity-vulnerability-and-activism/&#34;&gt;https://writing.grantcuster.com/posts/2019-06-14-eyeo-recap-creativity-vulnerability-and-activism/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -4178,7 +4178,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_05_30_at_9_50_56_AM-1559224410032.png"/><br/><br/>
         <p>Trying out Hydra in preparation for the workshop on it at eyeo.
-        
+        from &lt;a href=&#34;https://github.com/ojack/hydra&#34;&gt;https://github.com/ojack/hydra&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -4220,7 +4220,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_05_24_at_11_37_34_AM-1558712331751.png"/><br/><br/>
         <p>Our AI experiments page is live.
-        
+        from &lt;a href=&#34;https://experiments.fastforwardlabs.com/&#34;&gt;https://experiments.fastforwardlabs.com/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -4360,7 +4360,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_05_15_at_2_59_32_PM-1557946984055.png"/><br/><br/>
         <p>Porting the grid calculated in javascript to CSS. With calc() I think this will work but it will be harder to debug.
-        
+        from &lt;a href=&#34;https://codepen.io/GrantCuster/pen/MdpwrW&#34;&gt;https://codepen.io/GrantCuster/pen/MdpwrW&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -4640,7 +4640,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_04_16_at_11_21_08_AM-1555428118153.png"/><br/><br/>
         <p>HCL hue rotation as calendar
-        
+        from &lt;a href=&#34;https://observablehq.com/@grantcuster/hcl-hue-rotation-as-calendar&#34;&gt;https://observablehq.com/@grantcuster/hcl-hue-rotation-as-calendar&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -4794,7 +4794,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_04_10_at_9_21_53_AM-1554902554600.png"/><br/><br/>
         <p>More programmatic font-sizing experiments: Line-height baseline tweening test.
-        
+        from &lt;a href=&#34;https://observablehq.com/@grantcuster/line-height-baseline-tweening-test&#34;&gt;https://observablehq.com/@grantcuster/line-height-baseline-tweening-test&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -4836,7 +4836,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_04_08_at_10_17_33_AM-1554733084378.png"/><br/><br/>
         <p>An experiment in using Inter&amp;rsquo;s variable font weight to match the stroke weight across different sizes of text.
-        
+        from &lt;a href=&#34;https://observablehq.com/@grantcuster/inter-variable-for-monoline-at-all-sizes&#34;&gt;https://observablehq.com/@grantcuster/inter-variable-for-monoline-at-all-sizes&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -4864,7 +4864,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_04_06_at_2_29_03_PM-1554575428422.png"/><br/><br/>
         <p>I made a notebook about translating the Inter font metrics into pixel measurements. It should be helpful for lining stuff up.
-        
+        from &lt;a href=&#34;https://observablehq.com/@grantcuster/inter-font-metrics-in-pixels&#34;&gt;https://observablehq.com/@grantcuster/inter-font-metrics-in-pixels&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -4906,7 +4906,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/clip3-1554232754113.gif"/><br/><br/>
         <p>The active learning prototype is live!
-        
+        from &lt;a href=&#34;https://activelearner.fastforwardlabs.com/&#34;&gt;https://activelearner.fastforwardlabs.com/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5032,7 +5032,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_02_21_at_4_51_53_PM-1550785986467.png"/><br/><br/>
         <p>I&amp;rsquo;m working on putting my personal online presence in order. First up, a page for my résumé.
-        
+        from &lt;a href=&#34;https://resume.grantcuster.com/&#34;&gt;https://resume.grantcuster.com/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5102,7 +5102,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_01_24_at_4_00_24_PM-1548363674193.png"/><br/><br/>
         <p>I changed how I&amp;rsquo;m handling transparency thresholding so the blobs are a lot less muddy now.
-        
+        from &lt;a href=&#34;https://grantcuster.github.io/umap-explorer/&#34;&gt;https://grantcuster.github.io/umap-explorer/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5144,7 +5144,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/umap_tsne_umap-1548104013595.gif"/><br/><br/>
         <p>I added T-SNE and UMAP with min_dist=0.8 algorithm options to the UMAP explorer. Three.js &amp;amp; tween.js animating the transition of 70,000 points no problem.
-        
+        from &lt;a href=&#34;https://grantcuster.github.io/umap-explorer&#34;&gt;https://grantcuster.github.io/umap-explorer&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5172,7 +5172,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2019_01_19_at_8_53_14_PM-1547949290702.png"/><br/><br/>
         <p>I made a notebook that lets you crop an image.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/image-crop&#34;&gt;https://beta.observablehq.com/@grantcuster/image-crop&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5186,7 +5186,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/umap_zoom-1547839236092.gif"/><br/><br/>
         <p>I put up a demo of the UMAP on MNIST interactive visualization I&amp;rsquo;ve been working on.
-        
+        from &lt;a href=&#34;https://grantcuster.github.io/umap-explorer/&#34;&gt;https://grantcuster.github.io/umap-explorer/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5354,7 +5354,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/snowflake-1546443875091.jpg"/><br/><br/>
         <p>The printed versions of my generated snowflake card are here. My first printed project saved directly from a canvas element. Slowly making my way towards a photoshop free workflow.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/generative-snowflake-card-explorations&#34;&gt;https://beta.observablehq.com/@grantcuster/generative-snowflake-card-explorations&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5382,7 +5382,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/twscroll-1545064042565.gif"/><br/><br/>
         <p>I worked out the scroll so it automatically centers the text walk.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/text-walk-scroller&#34;&gt;https://beta.observablehq.com/@grantcuster/text-walk-scroller&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5438,7 +5438,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/screenshot-1544716359714.png"/><br/><br/>
         <p>I finished the prototype demo video player for the prototypes we&amp;rsquo;ve made at Fast Forward Labs. We wanted something we could project at events/booths. It&amp;rsquo;s a good overview of the machine learning prototype work we&amp;rsquo;ve been doing for over 4 years now!
-        
+        from &lt;a href=&#34;https://fastforwardlabs.github.io/prototype-videos/&#34;&gt;https://fastforwardlabs.github.io/prototype-videos/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5480,7 +5480,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_12_08_at_5_55_03_PM-1544309757250.png"/><br/><br/>
         <p>Experiments in keeping lines centered as you scroll.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/scrollers&#34;&gt;https://beta.observablehq.com/@grantcuster/scrollers&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5494,7 +5494,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_12_06_at_10_45_09_PM-1544154353480.png"/><br/><br/>
         <p>Taking some text for a walk.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/text-walk&#34;&gt;https://beta.observablehq.com/@grantcuster/text-walk&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5508,7 +5508,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_12_06_at_12_30_06_PM-1544117520935.png"/><br/><br/>
         <p>I wrote about how our Turbofan Tycoon prototype was inspired by Universal Paperclips and Vim.
-        
+        from &lt;a href=&#34;https://blog.fastforwardlabs.com/2018/12/06/designing-turbofan-tycoon.html&#34;&gt;https://blog.fastforwardlabs.com/2018/12/06/designing-turbofan-tycoon.html&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5536,7 +5536,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_12_03_at_3_50_12_PM-1543870247359.png"/><br/><br/>
         <p>More layout grid experiments.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/layout-grid&#34;&gt;https://beta.observablehq.com/@grantcuster/layout-grid&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5550,7 +5550,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_11_30_at_1_50_00_PM-1543603859357.png"/><br/><br/>
         <p>At the stage of working on this idea where I&amp;rsquo;m not sure if it is a really good one or not actually an idea at all.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/functional-branding-sketch&#34;&gt;https://beta.observablehq.com/@grantcuster/functional-branding-sketch&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5564,7 +5564,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_11_29_at_7_07_06_PM-1543536481469.png"/><br/><br/>
         <p>Experimenting with using canvas to layout and render at print resolution.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/print-materials&#34;&gt;https://beta.observablehq.com/@grantcuster/print-materials&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5578,7 +5578,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_11_29_at_1_16_19_PM-1543515404154.png"/><br/><br/>
         <p>Circles in a grid.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/circles-in-a-grid&#34;&gt;https://beta.observablehq.com/@grantcuster/circles-in-a-grid&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5592,7 +5592,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_11_29_at_12_56_42_PM-1543514238732.png"/><br/><br/>
         <p>Fill grid with largest possible squares around obstacles.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/fill-grid-with-largest-possible-squares-around-obstacles&#34;&gt;https://beta.observablehq.com/@grantcuster/fill-grid-with-largest-possible-squares-around-obstacles&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5620,7 +5620,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_11_26_at_4_38_01_PM-1543268361466.png"/><br/><br/>
         <p>After a lot of python problems I&amp;rsquo;ve got the umap tutorial running in a Jupyter notebook (my first Jupyter notebook).
-        
+        from &lt;a href=&#34;https://umap-learn.readthedocs.io/en/latest/basic_usage.html&#34;&gt;https://umap-learn.readthedocs.io/en/latest/basic_usage.html&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5634,7 +5634,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_11_21_at_1_21_38_PM-1542824592040.png"/><br/><br/>
         <p>I made a thing to go from markdown to grid cells. It uses canvas to calculate line breaks and break paragraphs into separate cells.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/markdown-to-grid&#34;&gt;https://beta.observablehq.com/@grantcuster/markdown-to-grid&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5662,7 +5662,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_11_17_at_11_10_15_AM-1542471053842.png"/><br/><br/>
         <p>Experimenting with the Inter UI variable font.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/untitled&#34;&gt;https://beta.observablehq.com/@grantcuster/untitled&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5676,7 +5676,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_11_14_at_11_14_46_AM-1542212164606.png"/><br/><br/>
         <p>Our Turbofan Tycoon prototype is live.
-        
+        from &lt;a href=&#34;https://turbofan.fastforwardlabs.com/&#34;&gt;https://turbofan.fastforwardlabs.com/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5746,7 +5746,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_11_05_at_8_28_33_PM-1541467797051.png"/><br/><br/>
         <p>NOV5: Learning how to manipulate image data with canvas.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/nov5&#34;&gt;https://beta.observablehq.com/@grantcuster/nov5&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5760,7 +5760,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/regl-1541353743276.png"/><br/><br/>
         <p>NOV4: after a bunch of &amp;ldquo;why is nothing at all showing up&amp;rdquo; debugging I got a very simple example from The Book of Shaders running in regl.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/nov4&#34;&gt;https://beta.observablehq.com/@grantcuster/nov4&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5774,7 +5774,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/clock2-1541262414454.png"/><br/><br/>
         <p>Codevember day 3. A deconstructed clock.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/nov3&#34;&gt;https://beta.observablehq.com/@grantcuster/nov3&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5802,7 +5802,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/coral-1541167963184.png"/><br/><br/>
         <p>Coral-ish generator. Codevember 2nd day.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/nov2&#34;&gt;https://beta.observablehq.com/@grantcuster/nov2&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5816,7 +5816,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_11_01_at_6_36_18_PM-1541111818681.png"/><br/><br/>
         <p>NOV1
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/nov1&#34;&gt;https://beta.observablehq.com/@grantcuster/nov1&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5830,7 +5830,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/federated_learning_animated_labeled-1541021063807.gif"/><br/><br/>
         <p>I made an endless federated learning animation in Observable and also a GIF version. I didn&amp;rsquo;t have it planned out to start so the code got super messy, but I have a lot of ideas about how to do it cleaner next time.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/federated-learning-animated-diagram&#34;&gt;https://beta.observablehq.com/@grantcuster/federated-learning-animated-diagram&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5844,7 +5844,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_10_26_at_7_51_37_PM-1540597956967.png"/><br/><br/>
         <p>How much can we do with search params in observable notebooks?
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/how-much-can-we-do-with-search-params-in-observable-notebook?data%5B0%5D=cool%20this%20works&amp;amp;data%5B1%5D=not%20bad&#34;&gt;https://beta.observablehq.com/@grantcuster/how-much-can-we-do-with-search-params-in-observable-notebook?data%5B0%5D=cool%20this%20works&amp;amp;data%5B1%5D=not%20bad&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5858,7 +5858,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_10_26_at_5_49_33_PM-1540590656736.png"/><br/><br/>
         <p>The styling need a little work but the math behind this federated learning diagram is working. Linear regression on each node and then weighted averaging on the &amp;ldquo;server&amp;rdquo;.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/federated-learning-diagram&#34;&gt;https://beta.observablehq.com/@grantcuster/federated-learning-diagram&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5872,7 +5872,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_10_24_at_4_44_18_PM-1540413949636.png"/><br/><br/>
         <p>Beste is making the figures for the report this time around.
-        
+        from &lt;a href=&#34;http://www.bestemiray.com/&#34;&gt;http://www.bestemiray.com/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5914,7 +5914,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_10_17_at_4_32_38_PM-1539808387739.png"/><br/><br/>
         <p>Turbofan animation.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/turbofan&#34;&gt;https://beta.observablehq.com/@grantcuster/turbofan&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -5928,7 +5928,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_10_16_at_9_19_09_AM-1539695998169.png"/><br/><br/>
         <p>I made a notebook to generate the cover illustration for our federated learning report.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/ff09-cover-illustration&#34;&gt;https://beta.observablehq.com/@grantcuster/ff09-cover-illustration&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -6138,7 +6138,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_10_01_at_6_48_09_PM-1538434124426.png"/><br/><br/>
         <p>Important personal project starting.
-        
+        from &lt;a href=&#34;https://github.com/GrantCuster/shirts&#34;&gt;https://github.com/GrantCuster/shirts&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -6166,7 +6166,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_09_29_at_11_14_13_AM-1538234102592.png"/><br/><br/>
         <p>Generic business name generator.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/generic-business-name-generator&#34;&gt;https://beta.observablehq.com/@grantcuster/generic-business-name-generator&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -6180,7 +6180,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_09_29_at_9_22_39_AM-1538227504205.png"/><br/><br/>
         <p>Trying to figure out which combination of corpora datasets will get me the best procedurally generated fake company names.
-        
+        from &lt;a href=&#34;https://github.com/dariusk/corpora/tree/master/data&#34;&gt;https://github.com/dariusk/corpora/tree/master/data&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -6404,7 +6404,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/frame_mode-1536636302973.gif"/><br/><br/>
         <p>I added a measurement mode to the picture hanging arrangement generator. It&amp;rsquo;s not perfect but it should be a big help in trying to lay them out IRL.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/picture-hanging-arrangement-generator-revised&#34;&gt;https://beta.observablehq.com/@grantcuster/picture-hanging-arrangement-generator-revised&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -6502,7 +6502,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/nextframe-1536509858099.gif"/><br/><br/>
         <p>I redid my picture hanging arrangement generator. I think the set-up is a lot more stable and predictable now. Or at least I understand it better.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/picture-hanging-arrangement-generator-revised&#34;&gt;https://beta.observablehq.com/@grantcuster/picture-hanging-arrangement-generator-revised&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -6558,7 +6558,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_09_03_at_1_25_38_PM-1535995605369.png"/><br/><br/>
         <p>I wrote about the experiments I&amp;rsquo;ve been doing with making apps where all the state is contained in the URL.
-        
+        from &lt;a href=&#34;http://feed.grantcuster.com/writing/2018-09-03-patterns-keeping-app-state-in-the-url&#34;&gt;http://feed.grantcuster.com/writing/2018-09-03-patterns-keeping-app-state-in-the-url&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -6572,7 +6572,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_09_02_at_8_42_40_PM-1535935464698.png"/><br/><br/>
         <p>I am @grantcuster@vis.social on Mastodon.
-        
+        from &lt;a href=&#34;https://vis.social/@grantcuster&#34;&gt;https://vis.social/@grantcuster&lt;/a&gt;
         via &lt;a href=&#34;https://pinafore.social&#34;&gt;https://pinafore.social&lt;/a&gt;</p>
       </description>
     </item>
@@ -6600,7 +6600,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_09_01_at_2_53_09_PM-1535828051688.png"/><br/><br/>
         <p>I made a breath counting app to redirect myself to when I try and look at Twitter. You can set the in and out breath duration in the URL parameters.
-        
+        from &lt;a href=&#34;https://grantcuster.github.io/breathe?in=3.25&amp;amp;out=3.25&#34;&gt;https://grantcuster.github.io/breathe?in=3.25&amp;amp;out=3.25&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -6614,7 +6614,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_08_29_at_10_41_05_PM-1535596915161.png"/><br/><br/>
         <p>Timeline finished!
-        
+        from &lt;a href=&#34;http://feed.grantcuster.com/timeline&#34;&gt;http://feed.grantcuster.com/timeline&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -6642,7 +6642,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_08_28_at_11_04_41_PM-1535511987623.png"/><br/><br/>
         <p>I rebuilt React (not really) in an Observable notebook.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/react-like-rendering&#34;&gt;https://beta.observablehq.com/@grantcuster/react-like-rendering&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -6698,7 +6698,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_08_26_at_11_24_27_PM-1535340400325.png"/><br/><br/>
         <p>I finished my Wing Tsun set-counter app. The &amp;ldquo;count in a random language&amp;rdquo; option was fun to set-up.
-        
+        from &lt;a href=&#34;https://grantcuster.github.io/set-counter?c%5B0%5D%5Bto%5D=10&amp;amp;c%5B1%5D%5Bsc%5D=2&amp;amp;c%5B1%5D%5Bto%5D=10&amp;amp;c%5B2%5D%5Bsc%5D=3&amp;amp;c%5B2%5D%5Bto%5D=10&amp;amp;c%5B3%5D%5Bsc%5D=4&amp;amp;c%5B3%5D%5Bto%5D=10&amp;amp;c%5B4%5D%5Bsc%5D=5&amp;amp;c%5B4%5D%5Bto%5D=10&amp;amp;c%5B5%5D%5Bsc%5D=4&amp;amp;c%5B5%5D%5Bto%5D=10&amp;amp;c%5B6%5D%5Bsc%5D=3&amp;amp;c%5B6%5D%5Bto%5D=10&amp;amp;c%5B7%5D%5Bsc%5D=2&amp;amp;c%5B7%5D%5Bto%5D=10&amp;amp;c%5B8%5D%5Bto%5D=10&amp;amp;sp=s&amp;amp;cv=1&amp;amp;cr=1&amp;amp;sv=0.5&amp;amp;sr=1.5&amp;amp;rl=y&#34;&gt;https://grantcuster.github.io/set-counter?c[0][to]=10&amp;amp;c[1][sc]=2&amp;amp;c[1][to]=10&amp;amp;c[2][sc]=3&amp;amp;c[2][to]=10&amp;amp;c[3][sc]=4&amp;amp;c[3][to]=10&amp;amp;c[4][sc]=5&amp;amp;c[4][to]=10&amp;amp;c[5][sc]=4&amp;amp;c[5][to]=10&amp;amp;c[6][sc]=3&amp;amp;c[6][to]=10&amp;amp;c[7][sc]=2&amp;amp;c[7][to]=10&amp;amp;c[8][to]=10&amp;amp;sp=s&amp;amp;cv=1&amp;amp;cr=1&amp;amp;sv=0.5&amp;amp;sr=1.5&amp;amp;rl=y&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -6726,7 +6726,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/usl1-1535049772318.gif"/><br/><br/>
         <p>I put up my example React app for putting all the state in the URL and using local storage for history. There&amp;rsquo;s lots of aspects that could be improved on, but I think the overall concept is a strong one.
-        
+        from &lt;a href=&#34;https://grantcuster.github.io/usl/&#34;&gt;https://grantcuster.github.io/usl/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -6768,7 +6768,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_08_21_at_5_28_13_PM-1534886944867.png"/><br/><br/>
         <p>I added a waterfall view and cleaned up my weekday-only calendar logic for the project timeline.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/ff09-calendar-refactor&#34;&gt;https://beta.observablehq.com/@grantcuster/ff09-calendar-refactor&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -6796,7 +6796,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/calendar_schedule-1534443039104.jpg"/><br/><br/>
         <p>I put the project calendar on the office raspberry pi.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/ff09-calendar-isolated&#34;&gt;https://beta.observablehq.com/@grantcuster/ff09-calendar-isolated&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -6810,7 +6810,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_08_15_at_2_43_46_PM-1534358704165.png"/><br/><br/>
         <p>The most recent sci-fi story is up on our sci-fi mini-site.
-        
+        from &lt;a href=&#34;https://scifi.fastforwardlabs.com/&#34;&gt;https://scifi.fastforwardlabs.com/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -6824,7 +6824,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/footnotes-1534357731320.gif"/><br/><br/>
         <p>I got inline footnotes working in Gatsby.js for the new sci-fi story. The DOM manipulation was not the prettiest but it works.
-        
+        from &lt;a href=&#34;https://scifi.fastforwardlabs.com/ff08/havurtat&#34;&gt;https://scifi.fastforwardlabs.com/ff08/havurtat&lt;/a&gt;
         via &lt;a href=&#34;https://gist.github.com/GrantCuster/702d544161362b4a840a2ae818e0cbb8&#34;&gt;https://gist.github.com/GrantCuster/702d544161362b4a840a2ae818e0cbb8&lt;/a&gt;</p>
       </description>
     </item>
@@ -6838,7 +6838,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_08_13_at_10_08_50_AM-1534169423858.png"/><br/><br/>
         <p>I&amp;rsquo;m using the calendar-o-matic notebook I made to look at the process from our last report and prototype cycle.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/ff08-post-mortem&#34;&gt;https://beta.observablehq.com/@grantcuster/ff08-post-mortem&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -6852,7 +6852,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/calendar-1533758792465.gif"/><br/><br/>
         <p>I made a project calendar timeline controlled through plain text. Based off Mike Bostock&amp;rsquo;s Tree-o-Matic.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/project-timeline-calendar-o-matic&#34;&gt;https://beta.observablehq.com/@grantcuster/project-timeline-calendar-o-matic&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -7076,7 +7076,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/textgrid-1528770603072.gif"/><br/><br/>
         <p>I made a nagivable grid of text inputs.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/text-character-grid&#34;&gt;https://beta.observablehq.com/@grantcuster/text-character-grid&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -7160,7 +7160,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_06_01_at_11_39_12_AM-1527867594328.png"/><br/><br/>
         <p>Prototyping styling for the prototype in a notebook.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/word-category-visualization&#34;&gt;https://beta.observablehq.com/@grantcuster/word-category-visualization&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -7272,7 +7272,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_05_18_at_4_25_03_PM-1526675185018.png"/><br/><br/>
         <p>Exploring the next report color.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/fast-forward-labs-report-colors&#34;&gt;https://beta.observablehq.com/@grantcuster/fast-forward-labs-report-colors&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -7286,7 +7286,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/acccube-1526591038284.gif"/><br/><br/>
         <p>I made a 3d version of my accessible color contrast explorer.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/acessible-color-contrast-explorer-3d-edition&#34;&gt;https://beta.observablehq.com/@grantcuster/acessible-color-contrast-explorer-3d-edition&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -7328,7 +7328,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_05_12_at_6_35_28_PM-1526164671391.png"/><br/><br/>
         <p>An HCL color space example.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/hcl-color-space-with-lightness-slider&#34;&gt;https://beta.observablehq.com/@grantcuster/hcl-color-space-with-lightness-slider&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -7342,7 +7342,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_05_12_at_12_20_44_PM-1526164571835.png"/><br/><br/>
         <p>An HCL color space example.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/hcl-color-space-with-lightness-slider&#34;&gt;https://beta.observablehq.com/@grantcuster/hcl-color-space-with-lightness-slider&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -7356,7 +7356,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_05_12_at_12_20_44_PM-1526142089656.png"/><br/><br/>
         <p>Doing some more experiments to develop intuition about LAB color space.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/lab-color-space-with-lightness-slider&#34;&gt;https://beta.observablehq.com/@grantcuster/lab-color-space-with-lightness-slider&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -7370,7 +7370,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_05_11_at_4_48_42_PM-1526071833528.png"/><br/><br/>
         <p>I made a notebook exploring the &amp;ldquo;sinebow&amp;rdquo; rainbow a little bit. Still getting my head around color spaces.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/sinebow-lightness-test&#34;&gt;https://beta.observablehq.com/@grantcuster/sinebow-lightness-test&lt;/a&gt;
         via &lt;a href=&#34;https://beta.observablehq.com/@mbostock/sinebow&#34;&gt;https://beta.observablehq.com/@mbostock/sinebow&lt;/a&gt;</p>
       </description>
     </item>
@@ -7384,7 +7384,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_05_11_at_2_53_21_PM-1526064888298.png"/><br/><br/>
         <p>I made an example of how to nest CSS grid with fixed headers. There&amp;rsquo;s an absolute positioning trick to make sure the scrollable section takes up the available space without going over. I end up using this pattern with React components a lot.
-        
+        from &lt;a href=&#34;https://codepen.io/GrantCuster/pen/jxxYzR?editors=1100&#34;&gt;https://codepen.io/GrantCuster/pen/jxxYzR?editors=1100&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -7538,7 +7538,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_04_19_at_2_16_52_PM-1524161841338.png"/><br/><br/>
         <p>The SciFi mini-site is up.
-        
+        from &lt;a href=&#34;https://scifi.fastforwardlabs.com/&#34;&gt;https://scifi.fastforwardlabs.com/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -7552,7 +7552,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/pictures-1523834424706.gif"/><br/><br/>
         <p>I put up my picture hanging code sketch.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/greedy-picture-hanging&#34;&gt;https://beta.observablehq.com/@grantcuster/greedy-picture-hanging&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -7622,7 +7622,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_04_13_at_11_14_26_PM-1523675739924.png"/><br/><br/>
         <p>I added a button that will tell me out loud (in a robot voice) how long I have been doing certain things.
-        
+        from &lt;a href=&#34;http://feed.grantcuster.com/dates&#34;&gt;http://feed.grantcuster.com/dates&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -7874,7 +7874,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_03_11_at_11_41_59_PM-1520826304861.png"/><br/><br/>
         <p>I made a notebook about how long it takes the SpeechSynthesis API to say numbers out loud. Prep for a Wing Tsun practice counter.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/how-long-does-it-take-a-computer-to-say-a-number-out-loud&#34;&gt;https://beta.observablehq.com/@grantcuster/how-long-does-it-take-a-computer-to-say-a-number-out-loud&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -7958,7 +7958,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_03_06_at_12_27_54_PM-1520357321189.png"/><br/><br/>
         <p>I finished my notebook on using three.js for large 2D data visualizations.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/using-three-js-for-2d-data-visualization&#34;&gt;https://beta.observablehq.com/@grantcuster/using-three-js-for-2d-data-visualization&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -8000,7 +8000,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/three-1519499168398.gif"/><br/><br/>
         <p>I finished my notebook on how the three.js camera works.
-        
+        from &lt;a href=&#34;https://beta.observablehq.com/@grantcuster/understanding-scale-and-the-three-js-perspective-camera&#34;&gt;https://beta.observablehq.com/@grantcuster/understanding-scale-and-the-three-js-perspective-camera&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -8392,7 +8392,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_01_26_at_10_41_43_PM-1517025153086.png"/><br/><br/>
         <p>Planning to maybe make a sky clock with the average sky color from every 15 minutes with Micha&amp;rsquo;s help.
-        
+        from &lt;a href=&#34;https://codepen.io/GrantCuster/full/XVwPeG/&#34;&gt;https://codepen.io/GrantCuster/full/XVwPeG/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -8420,7 +8420,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2018_01_23_at_11_31_22_PM-1516768372087.png"/><br/><br/>
         <p>I went down a weird (but fun) box-packing hole, trying to get a set number of squares (or near-squares) to completely fill a rectangle.
-        
+        from &lt;a href=&#34;https://codepen.io/GrantCuster/pen/jYRgze?editors=0010&#34;&gt;https://codepen.io/GrantCuster/pen/jYRgze?editors=0010&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -8574,7 +8574,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2017_12_30_at_8_28_03_PM-1514683754111.png"/><br/><br/>
         <p>I&amp;rsquo;m trying out Airtable by categorizing all of the clothes I own.
-        
+        from &lt;a href=&#34;https://airtable.com/&#34;&gt;https://airtable.com/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -8798,7 +8798,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2017_11_19_at_1_41_42_PM-1511117005146.png"/><br/><br/>
         <p>I wrote about how making simple little world simulations helps me be more interested in the actual world.
-        
+        from &lt;a href=&#34;http://feed.grantcuster.com/writing/2017-11-19-simulating-the-word-to-engage-with-the-world&#34;&gt;http://feed.grantcuster.com/writing/2017-11-19-simulating-the-word-to-engage-with-the-world&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -8994,7 +8994,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2017_11_05_at_11_23_12_AM-1509899057813.png"/><br/><br/>
         <p>I wrote down scope for my ProcJam project which if all goes well will become my NaNoGen month project.
-        
+        from &lt;a href=&#34;http://feed.grantcuster.com/writing/2017-11-05-procjam-start&#34;&gt;http://feed.grantcuster.com/writing/2017-11-05-procjam-start&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -9036,7 +9036,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2017_11_01_at_10_32_48_PM-1509590036987.png"/><br/><br/>
         <p>I started thinking about a generated novel entry.
-        
+        from &lt;a href=&#34;http://feed.grantcuster.com/writing/2017-11-01-nanogenmo-idea-sketch&#34;&gt;http://feed.grantcuster.com/writing/2017-11-01-nanogenmo-idea-sketch&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -9344,7 +9344,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/jackson-1508110383037.gif"/><br/><br/>
         <p>I finished and delivered my nephew&amp;rsquo;s website birthday card a week or so ago. It was well received. Next year I feel like I&amp;rsquo;ll try and make some sort of character rather than just letters, but this one took longer than I planned so I had to scope to a stopping point. I built all the letters out of points picked by hand.
-        
+        from &lt;a href=&#34;http://feed.grantcuster.com/jackson2017&#34;&gt;http://feed.grantcuster.com/jackson2017&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -9372,7 +9372,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/ff01-06-covers-2row-1507751149364.jpg"/><br/><br/>
         <p>I made this composite shot of all our FFL covers so far a while ago but had not posted it here yet.
-        
+        from &lt;a href=&#34;http://fastforwardlabs.github.io/visuals/#all&#34;&gt;http://fastforwardlabs.github.io/visuals/#all&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -9386,7 +9386,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/red-1507652677293.gif"/><br/><br/>
         <p>Painting the t-sne red (learning three.js mouse interactions).
-        
+        from &lt;a href=&#34;https://codepen.io/GrantCuster/pen/mBLaEX?editors=0010&#34;&gt;https://codepen.io/GrantCuster/pen/mBLaEX?editors=0010&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -9400,7 +9400,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2017-10-08_at_3_32_31_PM-1507491236753.png"/><br/><br/>
         <p>I made a page for myself to remember important dates and how long I have been different places.
-        
+        from &lt;a href=&#34;http://feed.grantcuster.com/dates&#34;&gt;http://feed.grantcuster.com/dates&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -9414,7 +9414,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2017-10-06_at_3_07_35_PM-1507317002757.png"/><br/><br/>
         <p>I put up a page of media resources for FFL reports and prototypes. It&amp;rsquo;s mostly for internal use, but kind of a nice overview of what we&amp;rsquo;ve put out. The files are pulled and displayed from folders using the github API. This is my second iteration of using github pages to list static directory contents. I like the system. I&amp;rsquo;d like to expand on it and make it more flexible at some point.
-        
+        from &lt;a href=&#34;http://fastforwardlabs.github.io/visuals/&#34;&gt;http://fastforwardlabs.github.io/visuals/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -9428,7 +9428,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2017-10-03_at_2_20_40_PM-1507054955701.png"/><br/><br/>
         <p>I got multiple colors working, and some zoom scaling as you get in pretty close. The bummer is when I try and get it to do much while zooming I wind up crashing the browser. I don&amp;rsquo;t have a good intuition for what is too much with three.js right now, so it makes for an anxious development experience.
-        
+        from &lt;a href=&#34;https://codepen.io/GrantCuster/pen/rGGRRp&#34;&gt;https://codepen.io/GrantCuster/pen/rGGRRp&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -9484,7 +9484,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2017-09-28_at_4_59_29_PM-1506632473174.png"/><br/><br/>
         <p>I got Three.js zoom and pan working on a 2D visualization with a ton of points.
-        
+        from &lt;a href=&#34;https://codepen.io/GrantCuster/full/QqvXwd/&#34;&gt;https://codepen.io/GrantCuster/full/QqvXwd/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -9526,7 +9526,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2017-09-06_at_2_12_09_PM-1504721624836.png"/><br/><br/>
         <p>Fast Forward Labs website relaunched.
-        
+        from &lt;a href=&#34;https://www.fastforwardlabs.com/&#34;&gt;https://www.fastforwardlabs.com/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -9666,7 +9666,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/bump-1502651967731.gif"/><br/><br/>
         <p>I got the people (dots) to step back and say excuse me. I think this was a good exercise in running into a bunch of the ways collision detection is not easy. I&amp;rsquo;ll probably do some research on how other people handle it now.
-        
+        from &lt;a href=&#34;http://feed.grantcuster.com/cityand/v2&#34;&gt;http://feed.grantcuster.com/cityand/v2&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -9736,7 +9736,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/terrainv1-1502033269789.gif"/><br/><br/>
         <p>Got the squares to stop hanging around the edges and put this version up.
-        
+        from &lt;a href=&#34;http://feed.grantcuster.com/cityand/v1&#34;&gt;http://feed.grantcuster.com/cityand/v1&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -10002,7 +10002,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2017-07-01_at_6_07_20_PM-1498946891443.png"/><br/><br/>
         <p>I made an alternate view for these posts.
-        
+        from &lt;a href=&#34;http://feed.grantcuster.com/feed_archive&#34;&gt;http://feed.grantcuster.com/feed_archive&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -11584,7 +11584,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2017-02-08_at_10_01_06_AM-1486566194162.png"/><br/><br/>
         <p>Chambers Sans proved just a little too rectilinear for long passages. So I spent some time figuring out a complementary body font for the blog. I settled on Seravek which has enough angular elements (I really like the lowercase b) to complement Chambers but also has enough curves to be friendlier to long text.
-        
+        from &lt;a href=&#34;http://blog.fastforwardlabs.com/2017/01/30/the-algorithms-behind-probabilistic-programming.html&#34;&gt;http://blog.fastforwardlabs.com/2017/01/30/the-algorithms-behind-probabilistic-programming.html&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -11598,7 +11598,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2017-02-08_at_9_59_38_AM-1486566034514.png"/><br/><br/>
         <p>Some small tweaks to the blog spacing. Prepping for applying the styles to other FFL properties.
-        
+        from &lt;a href=&#34;http://blog.fastforwardlabs.com/&#34;&gt;http://blog.fastforwardlabs.com/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -11612,7 +11612,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2017-01-26_at_11_11_37_AM-1485447148414.png"/><br/><br/>
         <p>FFL Blog redesign is up!
-        
+        from &lt;a href=&#34;http://blog.fastforwardlabs.com/&#34;&gt;http://blog.fastforwardlabs.com/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -11654,7 +11654,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2017-01-18_at_3_00_45_PM-1484769692058.png"/><br/><br/>
         <p>Our public version of the real estate prototype is up!
-        
+        from &lt;a href=&#34;http://www.fastforwardlabs.com/pre&#34;&gt;http://www.fastforwardlabs.com/pre&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -11682,7 +11682,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2017-01-13_at_5_52_16_PM-1484347978684.png"/><br/><br/>
         <p>I made a codepen detailing the layout dilemma I am facing for the FFL blog.
-        
+        from &lt;a href=&#34;http://codepen.io/GrantCuster/full/ggMzbP/&#34;&gt;http://codepen.io/GrantCuster/full/ggMzbP/&lt;/a&gt;
         </p>
       </description>
     </item>
@@ -12844,7 +12844,7 @@
       <description>
         <img src="https://feed.grantcuster.com//images/posts/Screen_Shot_2016-08-14_at_10_20_53_PM-1471227846257.png"/><br/><br/>
         <p>Screenshot of this website, I just finished doing some work on it so that it will tweet now and load posts as you scroll.
-        
+        from &lt;a href=&#34;http://grantcuster.com&#34;&gt;http://grantcuster.com&lt;/a&gt;
         </p>
       </description>
     </item>
