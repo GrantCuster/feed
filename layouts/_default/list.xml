@@ -36,7 +36,7 @@
         {{ if (isset .Params "from") }}from {{ .Params.from | markdownify | html }}{{ end }}
         {{ if (isset .Params "via") }}via {{ .Params.via | markdownify | html }}{{ end }}
       </description>
-      <enclosure url="{{ .Params.image }}" />
+      <enclosure url="{{ .Site.BaseURL }}{{ .Params.image }}" />
     </item>
     {{ end }}
   </channel>
