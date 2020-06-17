@@ -3,21 +3,25 @@
   <channel>
     <title>false on Grant Custer → Feed</title>
     <link>https://feed.grantcuster.com/feed_type/false/</link>
-    <description>Recent content in false on Grant Custer → Feed</description>
+    <description>Work and inspiration in progress</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Apr 2017 01:03:34 +0000</lastBuildDate>
     
-	<atom:link href="https://feed.grantcuster.com/feed_type/false/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feed.grantcuster.com/feed_type/false/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
+      <title>Post 1493341414</title>
       <link>https://feed.grantcuster.com/post/1493341414/</link>
       <pubDate>Fri, 28 Apr 2017 01:03:34 +0000</pubDate>
       
       <guid>https://feed.grantcuster.com/post/1493341414/</guid>
-      <description></description>
+      <description>Calculated the spacing all out. Also experimenting with color below.
+        
+        
+      </description>
+      <enclosure url="/images/posts/Screen_Shot_2017-04-27_at_9_03_05_PM-1493341413151.png" />
     </item>
     
   </channel>

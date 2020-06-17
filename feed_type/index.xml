@@ -3,39 +3,51 @@
   <channel>
     <title>Feed_type on Grant Custer → Feed</title>
     <link>https://feed.grantcuster.com/feed_type/</link>
-    <description>Recent content in Feed_type on Grant Custer → Feed</description>
+    <description>Work and inspiration in progress</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jun 2020 22:02:47 +0000</lastBuildDate>
     
-	<atom:link href="https://feed.grantcuster.com/feed_type/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feed.grantcuster.com/feed_type/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>work</title>
+      <title>Post </title>
       <link>https://feed.grantcuster.com/feed_type/work/</link>
       <pubDate>Mon, 15 Jun 2020 22:02:47 +0000</pubDate>
       
       <guid>https://feed.grantcuster.com/feed_type/work/</guid>
-      <description></description>
+      <description>
+        
+        
+      </description>
+      <enclosure url="" />
     </item>
     
     <item>
-      <title>inspiration</title>
+      <title>Post </title>
       <link>https://feed.grantcuster.com/feed_type/inspiration/</link>
       <pubDate>Mon, 15 Jun 2020 00:57:09 +0000</pubDate>
       
       <guid>https://feed.grantcuster.com/feed_type/inspiration/</guid>
-      <description></description>
+      <description>
+        
+        
+      </description>
+      <enclosure url="" />
     </item>
     
     <item>
-      <title>false</title>
+      <title>Post </title>
       <link>https://feed.grantcuster.com/feed_type/false/</link>
       <pubDate>Fri, 28 Apr 2017 01:03:34 +0000</pubDate>
       
       <guid>https://feed.grantcuster.com/feed_type/false/</guid>
-      <description></description>
+      <description>
+        
+        
+      </description>
+      <enclosure url="" />
     </item>
     
   </channel>
