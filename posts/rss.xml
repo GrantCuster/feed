@@ -6,10 +6,24 @@
     <description>Work and inspiration in progress</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2020 00:05:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 15:49:03 +0000</lastBuildDate>
     
     <atom:link href="https://feed.grantcuster.com/posts/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Work 1592495344</title>
+      <link>https://feed.grantcuster.com/post/1592495344/</link>
+      <pubDate>Thu, 18 Jun 2020 15:49:03 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1592495344/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-06-18_11-40-37-1592495344.png"/><br/><br/>
+        <p>Cropping gifs with gifsicle CLI + xzoom.
+        
+        </p>
+      </description>
+    </item>
     
     <item>
       <title>Inspiration 1592438718</title>
