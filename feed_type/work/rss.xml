@@ -6,10 +6,24 @@
     <description>Work and inspiration in progress</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2020 15:49:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 14:34:06 +0000</lastBuildDate>
     
     <atom:link href="https://feed.grantcuster.com/feed_type/work/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Work 1592577247</title>
+      <link>https://feed.grantcuster.com/post/1592577247/</link>
+      <pubDate>Fri, 19 Jun 2020 14:34:06 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1592577247/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-06-19_10-32-50-1592577247.png"/><br/><br/>
+        <p>Figuring out how to run hugo and a node app for creating posts on the same server.
+        
+        </p>
+      </description>
+    </item>
     
     <item>
       <title>Work 1592495344</title>
