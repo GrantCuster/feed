@@ -6,10 +6,38 @@
     <description>Work and inspiration in progress</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2020 15:49:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 16:45:53 +0000</lastBuildDate>
     
     <atom:link href="https://feed.grantcuster.com/posts/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Inspiration 1592585154</title>
+      <link>https://feed.grantcuster.com/post/1592585154/</link>
+      <pubDate>Fri, 19 Jun 2020 16:45:53 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1592585154/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shotwin-2020-06-19_12-42-04-1592585154.png"/><br/><br/>
+        <p>MakeSpace - I love the attention to the expressive possibilities of spatial arrangement in this project.
+        from &lt;a href=&#34;https://makespace.fun/&#34;&gt;https://makespace.fun/&lt;/a&gt;
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1592577247</title>
+      <link>https://feed.grantcuster.com/post/1592577247/</link>
+      <pubDate>Fri, 19 Jun 2020 14:34:06 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1592577247/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-06-19_10-32-50-1592577247.png"/><br/><br/>
+        <p>Figuring out how to run hugo and a node app for creating posts on the same server.
+        
+        </p>
+      </description>
+    </item>
     
     <item>
       <title>Work 1592495344</title>
