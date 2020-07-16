@@ -6,10 +6,276 @@
     <description>Work and inspiration in progress</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2020 16:45:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 00:42:17 +0000</lastBuildDate>
     
     <atom:link href="https://feed.grantcuster.com/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Work 1594773737</title>
+      <link>https://feed.grantcuster.com/post/1594773737/</link>
+      <pubDate>Wed, 15 Jul 2020 00:42:17 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1594773737/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-07-11_08-51-21@2x-1594472001-1594773737.gif"/><br/><br/>
+        <p>I got terminal color scheme switching working with Base16 shell and wrote about it.
+        from &lt;a href=&#34;https://writing.grantcuster.com/posts/2020-07-12-swapping-color-schemes-across-all-terminals-and-vim-with-pywal-and-base16/&#34;&gt;https://writing.grantcuster.com/posts/2020-07-12-swapping-color-schemes-across-all-terminals-and-vim-with-pywal-and-base16/&lt;/a&gt;
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Inspiration 1594329512</title>
+      <link>https://feed.grantcuster.com/post/1594329512/</link>
+      <pubDate>Thu, 09 Jul 2020 21:18:32 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1594329512/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shotwin-2020-07-09_17-16-21-1594329512.png"/><br/><br/>
+        <p>The more I understand what Base16 is: a structured way for setting up and applying color palettes (a design system), the more I am impressed by it.
+        from &lt;a href=&#34;http://chriskempson.com/projects/base16/&#34;&gt;http://chriskempson.com/projects/base16/&lt;/a&gt;
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1594235103</title>
+      <link>https://feed.grantcuster.com/post/1594235103/</link>
+      <pubDate>Wed, 08 Jul 2020 19:05:02 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1594235103/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-07-08_13-24-43@2x-1594235103.gif"/><br/><br/>
+        <p>Light and dark mode with hotkey. Mostly done using pywal, though Vim turned out to be tricky because the gruvbox package needs to have the background set. I might try using base16-shell instead&amp;hellip;
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1594067628</title>
+      <link>https://feed.grantcuster.com/post/1594067628/</link>
+      <pubDate>Mon, 06 Jul 2020 20:33:47 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1594067628/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-07-06_16-23-16@4x-1594067628.gif"/><br/><br/>
+        <p>Using only the pixels from the rendered to text to render the image.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1593972218</title>
+      <link>https://feed.grantcuster.com/post/1593972218/</link>
+      <pubDate>Sun, 05 Jul 2020 18:03:38 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1593972218/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-07-05_14-02-12-1593972218.png"/><br/><br/>
+        <p>Font pixels to image pixels.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1593913519</title>
+      <link>https://feed.grantcuster.com/post/1593913519/</link>
+      <pubDate>Sun, 05 Jul 2020 01:45:19 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1593913519/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-07-04_21-41-01-1593913519.png"/><br/><br/>
+        <p>Subpixel antialiasing pixel-sort.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1593811772</title>
+      <link>https://feed.grantcuster.com/post/1593811772/</link>
+      <pubDate>Fri, 03 Jul 2020 21:29:32 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1593811772/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-07-03_17-27-39-1593811772.png"/><br/><br/>
+        <p>Constraint Systems has a gallery now.
+        from &lt;a href=&#34;https://constraint.systems/gallery/&#34;&gt;https://constraint.systems/gallery/&lt;/a&gt;
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1593733337</title>
+      <link>https://feed.grantcuster.com/post/1593733337/</link>
+      <pubDate>Thu, 02 Jul 2020 23:42:17 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1593733337/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-07-02_19-41-05-1593733337.png"/><br/><br/>
+        <p>Working on creating a gallery for images created using Constraint Systems. Hugo continues to be an enjoyable way to make a website.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1593638799</title>
+      <link>https://feed.grantcuster.com/post/1593638799/</link>
+      <pubDate>Wed, 01 Jul 2020 21:26:39 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1593638799/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-07-01_17-26-01-1593638799.png"/><br/><br/>
+        <p>Template debugging aesthetic.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1593565339</title>
+      <link>https://feed.grantcuster.com/post/1593565339/</link>
+      <pubDate>Wed, 01 Jul 2020 01:02:19 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1593565339/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-06-30_21-01-34-1593565339.png"/><br/><br/>
+        <p>Bit waves.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1593551987</title>
+      <link>https://feed.grantcuster.com/post/1593551987/</link>
+      <pubDate>Tue, 30 Jun 2020 21:19:46 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1593551987/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-06-30_17-19-15-1593551987.png"/><br/><br/>
+        <p>Grids.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1593536776</title>
+      <link>https://feed.grantcuster.com/post/1593536776/</link>
+      <pubDate>Tue, 30 Jun 2020 17:06:15 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1593536776/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/7E05889F-4C4D-4B39-A7DA-C06DDDC9A783-1593536776.jpeg"/><br/><br/>
+        <p>Programming environment.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1593372238</title>
+      <link>https://feed.grantcuster.com/post/1593372238/</link>
+      <pubDate>Sun, 28 Jun 2020 19:23:57 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1593372238/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-06-28_15-22-46-1593372238.png"/><br/><br/>
+        <p>Bits.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1593108646</title>
+      <link>https://feed.grantcuster.com/post/1593108646/</link>
+      <pubDate>Thu, 25 Jun 2020 18:10:45 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1593108646/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/span-1593108646.gif"/><br/><br/>
+        <p>Span - lay out and rearrange text, line by line, using Vim-like keyboard controls.
+        from &lt;a href=&#34;https://span.constraint.systems&#34;&gt;https://span.constraint.systems&lt;/a&gt;
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1592962164</title>
+      <link>https://feed.grantcuster.com/post/1592962164/</link>
+      <pubDate>Wed, 24 Jun 2020 01:29:23 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1592962164/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-06-23_21-26-53@2x-1592962164.gif"/><br/><br/>
+        <p>Figuring out a GIF maker.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1592768509</title>
+      <link>https://feed.grantcuster.com/post/1592768509/</link>
+      <pubDate>Sun, 21 Jun 2020 19:41:48 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1592768509/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-06-21_15-38-49-1592768509.png"/><br/><br/>
+        <p>Tiling window manager + xzoom + automatic reload script makes for a pretty good design-dev set-up.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Inspiration 1592688346</title>
+      <link>https://feed.grantcuster.com/post/1592688346/</link>
+      <pubDate>Sat, 20 Jun 2020 21:25:46 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1592688346/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/A103390E-E320-4D13-85F4-30E6DAF97767-1592688346.png"/><br/><br/>
+        <p>Thread by @helvetica on how genre conventions are a shortcut for the cognitive load of game rules. And why that hinders movement towards new, less toxic conventions.
+        from &lt;a href=&#34;https://twitter.com/helvetica/status/1274450330726645762&#34;&gt;https://twitter.com/helvetica/status/1274450330726645762&lt;/a&gt;
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Inspiration 1592667816</title>
+      <link>https://feed.grantcuster.com/post/1592667816/</link>
+      <pubDate>Sat, 20 Jun 2020 15:43:35 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1592667816/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/B0A61391-9089-46AA-B032-6222C92CCC13-1592667816.png"/><br/><br/>
+        <p>Jennifer Jacobs on work as a “series of productive failures” (in her case trying to mash programming and drawing together).
+        from &lt;a href=&#34;https://futureofcoding.org/episodes/048&#34;&gt;https://futureofcoding.org/episodes/048&lt;/a&gt;
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1592622396</title>
+      <link>https://feed.grantcuster.com/post/1592622396/</link>
+      <pubDate>Sat, 20 Jun 2020 03:06:36 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1592622396/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-06-19_23-05-09-1592622396.png"/><br/><br/>
+        <p>Figuring out sprite animation, maybe.
+        
+        </p>
+      </description>
+    </item>
     
     <item>
       <title>Inspiration 1592585154</title>

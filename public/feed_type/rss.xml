@@ -6,17 +6,17 @@
     <description>Work and inspiration in progress</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2020 16:45:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 00:42:17 +0000</lastBuildDate>
     
     <atom:link href="https://feed.grantcuster.com/feed_type/rss.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title> </title>
-      <link>https://feed.grantcuster.com/feed_type/inspiration/</link>
-      <pubDate>Fri, 19 Jun 2020 16:45:53 +0000</pubDate>
+      <link>https://feed.grantcuster.com/feed_type/work/</link>
+      <pubDate>Wed, 15 Jul 2020 00:42:17 +0000</pubDate>
       
-      <guid>https://feed.grantcuster.com/feed_type/inspiration/</guid>
+      <guid>https://feed.grantcuster.com/feed_type/work/</guid>
       <description>
         <img src="https://feed.grantcuster.com/"/><br/><br/>
         <p>
@@ -27,10 +27,10 @@
     
     <item>
       <title> </title>
-      <link>https://feed.grantcuster.com/feed_type/work/</link>
-      <pubDate>Fri, 19 Jun 2020 14:34:06 +0000</pubDate>
+      <link>https://feed.grantcuster.com/feed_type/inspiration/</link>
+      <pubDate>Thu, 09 Jul 2020 21:18:32 +0000</pubDate>
       
-      <guid>https://feed.grantcuster.com/feed_type/work/</guid>
+      <guid>https://feed.grantcuster.com/feed_type/inspiration/</guid>
       <description>
         <img src="https://feed.grantcuster.com/"/><br/><br/>
         <p>
