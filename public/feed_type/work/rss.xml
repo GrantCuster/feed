@@ -6,10 +6,150 @@
     <description>Work and inspiration in progress</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2020 00:42:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2020 19:39:00 +0000</lastBuildDate>
     
     <atom:link href="https://feed.grantcuster.com/feed_type/work/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Work 1596224341</title>
+      <link>https://feed.grantcuster.com/post/1596224341/</link>
+      <pubDate>Fri, 31 Jul 2020 19:39:00 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1596224341/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shotwin-2020-07-31_15-35-54-1596224341.png"/><br/><br/>
+        <p>Documenting my minimal gruvbox-inspired Firefox userChrome.css.
+        from &lt;a href=&#34;https://gist.github.com/GrantCuster/fb8631e711b8595084f7a551c6fb44ee&#34;&gt;https://gist.github.com/GrantCuster/fb8631e711b8595084f7a551c6fb44ee&lt;/a&gt;
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1596219488</title>
+      <link>https://feed.grantcuster.com/post/1596219488/</link>
+      <pubDate>Fri, 31 Jul 2020 18:18:07 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1596219488/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/automadraw-1596219488.gif"/><br/><br/>
+        <p>Automadraw - draw and evolve your drawing using cellular automata on a pixel grid with two keyboard-controlled cursors.
+        from &lt;a href=&#34;https://automadraw.constraint.systems&#34;&gt;https://automadraw.constraint.systems&lt;/a&gt;
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1596068276</title>
+      <link>https://feed.grantcuster.com/post/1596068276/</link>
+      <pubDate>Thu, 30 Jul 2020 00:17:55 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1596068276/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-07-29_20-17-32-1596068276.png"/><br/><br/>
+        <p>Going to make a tiling website, maybe.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1595616262</title>
+      <link>https://feed.grantcuster.com/post/1595616262/</link>
+      <pubDate>Fri, 24 Jul 2020 18:44:22 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1595616262/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-07-24_14-41-01@2x-1595616262.gif"/><br/><br/>
+        <p>Failed glider gun constructions.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1595431997</title>
+      <link>https://feed.grantcuster.com/post/1595431997/</link>
+      <pubDate>Wed, 22 Jul 2020 15:33:16 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1595431997/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-07-22_11-29-05@2x-1595431997.gif"/><br/><br/>
+        <p>Langston&amp;rsquo;s ant automata is working. I like how it &amp;ldquo;surfs&amp;rdquo; on straight black lines.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1595364689</title>
+      <link>https://feed.grantcuster.com/post/1595364689/</link>
+      <pubDate>Tue, 21 Jul 2020 20:51:28 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1595364689/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/7D035246-C903-4615-830B-E89B04A1757A-1595364689.jpeg"/><br/><br/>
+        <p>Designing keyboard controls
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1595211829</title>
+      <link>https://feed.grantcuster.com/post/1595211829/</link>
+      <pubDate>Mon, 20 Jul 2020 02:23:49 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1595211829/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-07-19_22-21-13-1595211829.gif"/><br/><br/>
+        <p>It&amp;rsquo;s getting weirder.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1595190516</title>
+      <link>https://feed.grantcuster.com/post/1595190516/</link>
+      <pubDate>Sun, 19 Jul 2020 20:28:36 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1595190516/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-07-19_16-26-06@2x-1595190516.gif"/><br/><br/>
+        <p>Building out the interface for the draw + automata experiment.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1594997719</title>
+      <link>https://feed.grantcuster.com/post/1594997719/</link>
+      <pubDate>Fri, 17 Jul 2020 14:55:18 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1594997719/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-07-17_10-53-06@2x-1594997719.gif"/><br/><br/>
+        <p>2 cursor draw and automata.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1594943210</title>
+      <link>https://feed.grantcuster.com/post/1594943210/</link>
+      <pubDate>Thu, 16 Jul 2020 23:46:49 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1594943210/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-07-16_16-08-58@2x-1594943210.gif"/><br/><br/>
+        <p>Pixel drawing + Conway&amp;rsquo;s game of life, maybe.
+        
+        </p>
+      </description>
+    </item>
     
     <item>
       <title>Work 1594773737</title>
