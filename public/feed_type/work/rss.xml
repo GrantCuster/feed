@@ -6,10 +6,514 @@
     <description>Work and inspiration in progress</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2020 19:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2020 21:40:16 +0000</lastBuildDate>
     
     <atom:link href="https://feed.grantcuster.com/feed_type/work/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Work 1602020417</title>
+      <link>https://feed.grantcuster.com/post/1602020417/</link>
+      <pubDate>Tue, 06 Oct 2020 21:40:16 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1602020417/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/D953B492-66BB-492E-A481-F181393A2909-1602020417.jpeg"/><br/><br/>
+        <p>Working on the basement.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1602013680</title>
+      <link>https://feed.grantcuster.com/post/1602013680/</link>
+      <pubDate>Tue, 06 Oct 2020 19:47:59 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1602013680/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/tri-1602013680.gif"/><br/><br/>
+        <p>Tri is an experimental image distorter. You can choose an image to render using a WebGL quad, adjust the texture and position coordinates to create different distortions, and save the result.
+        from &lt;a href=&#34;https://tri.constraint.systems&#34;&gt;https://tri.constraint.systems&lt;/a&gt;
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1601848938</title>
+      <link>https://feed.grantcuster.com/post/1601848938/</link>
+      <pubDate>Sun, 04 Oct 2020 22:02:18 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1601848938/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-10-04_17-59-20-1601848938.gif"/><br/><br/>
+        <p>I&amp;rsquo;m going to make the WebGL texture explorer/debugger a little app.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1601661716</title>
+      <link>https://feed.grantcuster.com/post/1601661716/</link>
+      <pubDate>Fri, 02 Oct 2020 18:01:56 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1601661716/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-10-02_13-59-39@2x-1601661716.gif"/><br/><br/>
+        <p>More WebGL texture experiments.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1601395533</title>
+      <link>https://feed.grantcuster.com/post/1601395533/</link>
+      <pubDate>Tue, 29 Sep 2020 16:05:33 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1601395533/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-09-29_12-04-52-1601395533.png"/><br/><br/>
+        <p>Learning about WebGL texture coordinates.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1601325891</title>
+      <link>https://feed.grantcuster.com/post/1601325891/</link>
+      <pubDate>Mon, 28 Sep 2020 20:44:50 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1601325891/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-09-28_16-43-44-1601325891.png"/><br/><br/>
+        <p>Figuring out webGL.
+        from &lt;a href=&#34;https://webglfundamentals.org/webgl/lessons/webgl-3d-textures.html&#34;&gt;https://webglfundamentals.org/webgl/lessons/webgl-3d-textures.html&lt;/a&gt;
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1601050055</title>
+      <link>https://feed.grantcuster.com/post/1601050055/</link>
+      <pubDate>Fri, 25 Sep 2020 16:07:34 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1601050055/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/tile-1601049996-1601050055.png"/><br/><br/>
+        <p>Moons, tiled.
+        from &lt;a href=&#34;https://tile.constraint.systems/&#34;&gt;https://tile.constraint.systems/&lt;/a&gt;
+        via &lt;a href=&#34;https://unsplash.com/photos/qx-fv-jB0iM&#34;&gt;https://unsplash.com/photos/qx-fv-jB0iM&lt;/a&gt;</p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1600960559</title>
+      <link>https://feed.grantcuster.com/post/1600960559/</link>
+      <pubDate>Thu, 24 Sep 2020 15:15:59 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1600960559/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/tile-1600960490-1600960559.png"/><br/><br/>
+        <p>Constraint Systems as seen through Tile.
+        from &lt;a href=&#34;https://constraint.systems&#34;&gt;https://constraint.systems&lt;/a&gt;
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1600888277</title>
+      <link>https://feed.grantcuster.com/post/1600888277/</link>
+      <pubDate>Wed, 23 Sep 2020 19:11:16 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1600888277/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/tile-1600888277.gif"/><br/><br/>
+        <p>Tile - layout images using a tiling tree layout. Move, split, and resize images using keyboard controls.
+        from &lt;a href=&#34;https://tile.constraint.systems/&#34;&gt;https://tile.constraint.systems/&lt;/a&gt;
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1600123348</title>
+      <link>https://feed.grantcuster.com/post/1600123348/</link>
+      <pubDate>Mon, 14 Sep 2020 22:42:27 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1600123348/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-09-14_18-41-31-1600123348.png"/><br/><br/>
+        <p>Making a tiling window browser within the browser, maybe.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1600051956</title>
+      <link>https://feed.grantcuster.com/post/1600051956/</link>
+      <pubDate>Mon, 14 Sep 2020 02:52:35 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1600051956/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-09-13_22-51-39-1600051956.png"/><br/><br/>
+        <p>Fish tile.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1600031416</title>
+      <link>https://feed.grantcuster.com/post/1600031416/</link>
+      <pubDate>Sun, 13 Sep 2020 21:10:15 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1600031416/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-09-13_17-03-48-1600031416.gif"/><br/><br/>
+        <p>Split and multiply.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1599785663</title>
+      <link>https://feed.grantcuster.com/post/1599785663/</link>
+      <pubDate>Fri, 11 Sep 2020 00:54:23 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1599785663/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-09-10_20-53-32-1599785663.png"/><br/><br/>
+        <p>Responsive design debug.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1599669313</title>
+      <link>https://feed.grantcuster.com/post/1599669313/</link>
+      <pubDate>Wed, 09 Sep 2020 16:35:13 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1599669313/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-09-09_12-33-58-1599669313.png"/><br/><br/>
+        <p>I think I have most of the design figured out for the new Constraint Systems index page. Now I need to refactor the code&amp;hellip;
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1599497754</title>
+      <link>https://feed.grantcuster.com/post/1599497754/</link>
+      <pubDate>Mon, 07 Sep 2020 16:55:53 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1599497754/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-09-07_12-54-34-1599497754.png"/><br/><br/>
+        <p>Working on a new layout for the Constraint Systems index page.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1599233980</title>
+      <link>https://feed.grantcuster.com/post/1599233980/</link>
+      <pubDate>Fri, 04 Sep 2020 15:39:40 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1599233980/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-09-04_11-35-44@2x-1599233980.gif"/><br/><br/>
+        <p>Tree layout and image-fill contain.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1599164381</title>
+      <link>https://feed.grantcuster.com/post/1599164381/</link>
+      <pubDate>Thu, 03 Sep 2020 20:19:40 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1599164381/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-09-03_16-16-41@2x-1599164381.gif"/><br/><br/>
+        <p>Back to tiling.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1599063916</title>
+      <link>https://feed.grantcuster.com/post/1599063916/</link>
+      <pubDate>Wed, 02 Sep 2020 16:25:15 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1599063916/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/sift-1599063916.gif"/><br/><br/>
+        <p>Sift - slice an image into multiple layers. You can then offset the slices to create interference patterns and pseudo-3D effects
+        from &lt;a href=&#34;https://sift.constraint.systems&#34;&gt;https://sift.constraint.systems&lt;/a&gt;
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1598563306</title>
+      <link>https://feed.grantcuster.com/post/1598563306/</link>
+      <pubDate>Thu, 27 Aug 2020 21:21:46 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1598563306/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-08-27_17-20-10@2x-1598563306.gif"/><br/><br/>
+        <p>Slippy.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1598544652</title>
+      <link>https://feed.grantcuster.com/post/1598544652/</link>
+      <pubDate>Thu, 27 Aug 2020 16:10:51 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1598544652/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-08-27_12-08-16-1598544652.gif"/><br/><br/>
+        <p>Starting a vacation project. Using three.js for the first time in a while.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1598036937</title>
+      <link>https://feed.grantcuster.com/post/1598036937/</link>
+      <pubDate>Fri, 21 Aug 2020 19:08:57 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1598036937/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-08-21_15-08-20-1598036937.png"/><br/><br/>
+        <p>Working on a command history view for the tiling app.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1597434068</title>
+      <link>https://feed.grantcuster.com/post/1597434068/</link>
+      <pubDate>Fri, 14 Aug 2020 19:41:08 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1597434068/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-08-14_15-38-02-1597434068.gif"/><br/><br/>
+        <p>Added multiple image handling and image swapping.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1597278603</title>
+      <link>https://feed.grantcuster.com/post/1597278603/</link>
+      <pubDate>Thu, 13 Aug 2020 00:30:02 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1597278603/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-08-12_20-26-45-1597278603.gif"/><br/><br/>
+        <p>TIle collage. Tree collage?
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1597249676</title>
+      <link>https://feed.grantcuster.com/post/1597249676/</link>
+      <pubDate>Wed, 12 Aug 2020 16:27:55 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1597249676/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-08-12_12-23-08-1597249676.gif"/><br/><br/>
+        <p>After a long battle, I think my tile tree movement is finally free of crashing bugs.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1597159645</title>
+      <link>https://feed.grantcuster.com/post/1597159645/</link>
+      <pubDate>Tue, 11 Aug 2020 15:27:24 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1597159645/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shot-2020-08-11_11-21-57-1597159645.png"/><br/><br/>
+        <p>Following a tip from @atav1k, I now have red-themed Firefox where I can access Twitter, and gruvbox-themed Firefox developer edition where I cannot.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1597116051</title>
+      <link>https://feed.grantcuster.com/post/1597116051/</link>
+      <pubDate>Tue, 11 Aug 2020 03:20:51 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1597116051/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shotwin-2020-08-10_23-19-27-1597116051.png"/><br/><br/>
+        <p>Tile debug screens.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1597092507</title>
+      <link>https://feed.grantcuster.com/post/1597092507/</link>
+      <pubDate>Mon, 10 Aug 2020 20:48:27 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1597092507/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-08-10_16-41-46-1597092507.gif"/><br/><br/>
+        <p>More tile movement debugging.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1597088921</title>
+      <link>https://feed.grantcuster.com/post/1597088921/</link>
+      <pubDate>Mon, 10 Aug 2020 19:48:41 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1597088921/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/215CF422-F262-42B9-BF09-54F90B3AD2A7-1597088921.jpeg"/><br/><br/>
+        <p>The set-up update.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1596980578</title>
+      <link>https://feed.grantcuster.com/post/1596980578/</link>
+      <pubDate>Sun, 09 Aug 2020 13:42:57 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1596980578/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-08-09_09-41-01-1596980578.gif"/><br/><br/>
+        <p>The tree tile movement experiments continue.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1596747213</title>
+      <link>https://feed.grantcuster.com/post/1596747213/</link>
+      <pubDate>Thu, 06 Aug 2020 20:53:32 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1596747213/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-08-06_16-50-38-1596747213.gif"/><br/><br/>
+        <p>Getting closer to a keyboard-controlled tiling movement that feels decent, but not there yet.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1596664613</title>
+      <link>https://feed.grantcuster.com/post/1596664613/</link>
+      <pubDate>Wed, 05 Aug 2020 21:56:53 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1596664613/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shotwin-2020-08-05_17-55-48-1596664613.png"/><br/><br/>
+        <p>I recorded my first walkthrough video for Automadraw. Setting up OBS to record went relatively smoothly.
+        from &lt;a href=&#34;https://www.youtube.com/watch?v=fFE5KO_9-Ws&#34;&gt;https://www.youtube.com/watch?v=fFE5KO_9-Ws&lt;/a&gt;
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1596641930</title>
+      <link>https://feed.grantcuster.com/post/1596641930/</link>
+      <pubDate>Wed, 05 Aug 2020 15:38:50 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1596641930/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-08-05_11-34-06-1596641930.gif"/><br/><br/>
+        <p>Working on moving tiles within a tree (using i3wm as a model). A thorny negotiation between the data structure, what &lt;em&gt;feels&lt;/em&gt; right, and avoiding a bunch of special-case code.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1596591514</title>
+      <link>https://feed.grantcuster.com/post/1596591514/</link>
+      <pubDate>Wed, 05 Aug 2020 01:38:34 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1596591514/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shotwin-2020-08-04_21-37-10-1596591514.png"/><br/><br/>
+        <p>Sloth tile.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1596565854</title>
+      <link>https://feed.grantcuster.com/post/1596565854/</link>
+      <pubDate>Tue, 04 Aug 2020 18:30:54 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1596565854/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-08-04_14-28-22@2x-1596565854.gif"/><br/><br/>
+        <p>Working on tiling image collage.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1596394694</title>
+      <link>https://feed.grantcuster.com/post/1596394694/</link>
+      <pubDate>Sun, 02 Aug 2020 18:58:13 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1596394694/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/gif-2020-08-02_14-56-11-1596394694.gif"/><br/><br/>
+        <p>Working on tiling splits and movement logic.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1596292296</title>
+      <link>https://feed.grantcuster.com/post/1596292296/</link>
+      <pubDate>Sat, 01 Aug 2020 14:31:35 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1596292296/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shotwin-2020-08-01_10-30-38-1596292296.png"/><br/><br/>
+        <p>Updated my homepage.
+        from &lt;a href=&#34;https://grantcuster.com&#34;&gt;https://grantcuster.com&lt;/a&gt;
+        </p>
+      </description>
+    </item>
     
     <item>
       <title>Work 1596224341</title>
