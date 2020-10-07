@@ -6,10 +6,38 @@
     <description>Work and inspiration in progress</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2020 21:40:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2020 13:45:13 +0000</lastBuildDate>
     
     <atom:link href="https://feed.grantcuster.com/posts/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Work 1602078314</title>
+      <link>https://feed.grantcuster.com/post/1602078314/</link>
+      <pubDate>Wed, 07 Oct 2020 13:45:13 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1602078314/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/E53E0478-5D3B-40C4-A950-84A86EBF17BB-1602078314.jpeg"/><br/><br/>
+        <p>New set-up.
+        
+        </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Work 1602077976</title>
+      <link>https://feed.grantcuster.com/post/1602077976/</link>
+      <pubDate>Wed, 07 Oct 2020 13:39:36 +0000</pubDate>
+      
+      <guid>https://feed.grantcuster.com/post/1602077976/</guid>
+      <description>
+        <img src="https://feed.grantcuster.com//images/posts/shotwin-2020-10-07_09-38-54-1602077976.png"/><br/><br/>
+        <p>WebGL points.
+        
+        </p>
+      </description>
+    </item>
     
     <item>
       <title>Work 1602020417</title>
